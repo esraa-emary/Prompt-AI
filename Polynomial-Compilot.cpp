@@ -1,5 +1,3 @@
-// ====================================================================== Compilot ========================================================================
-
 #include "Polynomial.h"
 
 // Default constructor
@@ -60,10 +58,15 @@ bool Polynomial::operator==(const Polynomial& other) const {
 
 // Output operator
 ostream& operator<<(ostream& out, const Polynomial& poly) {
-    for (size_t i = 0; i < poly.coeffs.size(); ++i) {
-        if (i > 0 && poly.coeffs[i] >= 0) out << "+";
-        out << poly.coeffs[i];
-        if (i < poly.coeffs.size() - 1) out << "x^" << i << " ";
+    bool first = true;
+    for (int i = poly.coeffs.size() - 1; i >= 0; --i) {
+        if (poly.coeffs[i] != 0) {
+            if (!first && poly.coeffs[i] > 0) out << " + ";
+            if (first || poly.coeffs[i] < 0) out << poly.coeffs[i];
+            else if (poly.coeffs[i] > 0) out << poly.coeffs[i];
+            if (i > 0) out << "x^" << i;
+            first = false;
+        }
     }
     return out;
 }
