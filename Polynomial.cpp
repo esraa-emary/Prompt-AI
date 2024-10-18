@@ -1,11 +1,7 @@
-//===================================================================== Chat GPT ==========================================================================
-
 #include "Polynomial.h"
-#include <stdexcept>
-#include <cmath>
 
 // Default constructor
-Polynomial::Polynomial() : coeffs(1, 0) {}
+Polynomial::Polynomial() : coeffs({0}) {}
 
 // Constructor with coefficients
 Polynomial::Polynomial(const vector<double>& coefficients) : coeffs(coefficients) {}
@@ -24,138 +20,120 @@ Polynomial& Polynomial::operator=(const Polynomial& other) {
     return *this;
 }
 
-// Addition of two polynomials
+// Addition
 Polynomial Polynomial::operator+(const Polynomial& other) const {
-    vector<double> result_coeffs(max(coeffs.size(), other.coeffs.size()), 0.0);
-    for (size_t i = 0; i < coeffs.size(); ++i)
-        result_coeffs[i] += coeffs[i];
-    for (size_t i = 0; i < other.coeffs.size(); ++i)
-        result_coeffs[i] += other.coeffs[i];
-    return Polynomial(result_coeffs);
+    vector<double> result(max(coeffs.size(), other.coeffs.size()), 0);
+    for (size_t i = 0; i < result.size(); ++i) {
+        if (i < coeffs.size()) result[i] += coeffs[i];
+        if (i < other.coeffs.size()) result[i] += other.coeffs[i];
+    }
+    return Polynomial(result);
 }
 
-// Subtraction of two polynomials
+// Subtraction
 Polynomial Polynomial::operator-(const Polynomial& other) const {
-    vector<double> result_coeffs(max(coeffs.size(), other.coeffs.size()), 0.0);
-    for (size_t i = 0; i < coeffs.size(); ++i)
-        result_coeffs[i] += coeffs[i];
-    for (size_t i = 0; i < other.coeffs.size(); ++i)
-        result_coeffs[i] -= other.coeffs[i];
-    return Polynomial(result_coeffs);
+    vector<double> result(max(coeffs.size(), other.coeffs.size()), 0);
+    for (size_t i = 0; i < result.size(); ++i) {
+        if (i < coeffs.size()) result[i] += coeffs[i];
+        if (i < other.coeffs.size()) result[i] -= other.coeffs[i];
+    }
+    return Polynomial(result);
 }
 
-// Multiplication of two polynomials
+// Multiplication
 Polynomial Polynomial::operator*(const Polynomial& other) const {
-    int degree1 = this->coeffs.size();
-    int degree2 = other.coeffs.size();
-
-    // Resultant polynomial will have degree (degree1 + degree2 - 2)
-    std::vector<double> result(degree1 + degree2 - 1, 0);
-
-    // Perform multiplication
-    for (int i = 0; i < degree1; i++) {
-        for (int j = 0; j < degree2; j++) {
-            result[i + j] += this->coeffs[i] * other.coeffs[j];
+    vector<double> result(coeffs.size() + other.coeffs.size() - 1, 0);
+    for (size_t i = 0; i < coeffs.size(); ++i) {
+        for (size_t j = 0; j < other.coeffs.size(); ++j) {
+            result[i + j] += coeffs[i] * other.coeffs[j];
         }
     }
-
     return Polynomial(result);
 }
 
 // Equality operator
 bool Polynomial::operator==(const Polynomial& other) const {
-    return this->coeffs == other.coeffs;
+    return coeffs == other.coeffs;
 }
 
-// Output operator (friend function)
+// Output operator
 ostream& operator<<(ostream& out, const Polynomial& poly) {
-    for (int i = poly.coeffs.size() - 1; i >= 0; --i) {
-        if (poly.coeffs[i] != 0) {
-            if (i != poly.coeffs.size() - 1 && poly.coeffs[i] > 0) out << "+";
-            out << poly.coeffs[i];
-            if (i > 0) out << "x^" << i << " ";
-        }
+    for (size_t i = 0; i < poly.coeffs.size(); ++i) {
+        if (i > 0 && poly.coeffs[i] >= 0) out << "+";
+        out << poly.coeffs[i];
+        if (i < poly.coeffs.size() - 1) out << "x^" << i << " ";
     }
     return out;
 }
 
-// Utility functions
+// Degree of the polynomial
 int Polynomial::degree() const {
     return coeffs.size() - 1;
 }
 
+// Evaluate the polynomial at x
 double Polynomial::evaluate(double x) const {
     double result = 0;
-    for (int i = coeffs.size() - 1; i >= 0; --i)
+    for (int i = coeffs.size() - 1; i >= 0; --i) {
         result = result * x + coeffs[i];
+    }
     return result;
 }
 
-Polynomial Polynomial::derivative() const {
-    if (coeffs.size() <= 1) return Polynomial({0});
-    vector<double> derivative_coeffs(coeffs.size() - 1);
-    for (size_t i = 1; i < coeffs.size(); ++i)
-        derivative_coeffs[i - 1] = i * coeffs[i];
-    return Polynomial(derivative_coeffs);
-}
-
+// Compose this polynomial with q
 Polynomial Polynomial::compose(const Polynomial& q) const {
-    Polynomial result({0}); // Initialize result as the zero polynomial
-    Polynomial term({1});   // Initialize term as q^0 (i.e., 1)
-
-    // Perform composition, iterating through each coefficient of the current polynomial
-    for (double coeff : this->coeffs) {
-        // Add the current term (coefficient * q^i) to the result
-        result = result + term * Polynomial({coeff});
-        // Update the term by multiplying it by q (this builds q^i for the next term)
-        term = term * q;
+    Polynomial result({0});
+    for (int i = coeffs.size() - 1; i >= 0; --i) {
+        result = q * result + Polynomial({coeffs[i]});
     }
-
     return result;
 }
 
+// Derivative of the polynomial
+Polynomial Polynomial::derivative() const {
+    if (coeffs.size() <= 1) return Polynomial(vector<double>{0});
+    vector<double> result(coeffs.size() - 1);
+    for (size_t i = 1; i < coeffs.size(); ++i) {
+        result[i - 1] = coeffs[i] * i;
+    }
+    return Polynomial(result);
+}
+
+// Indefinite integral of the polynomial
 Polynomial Polynomial::integral() const {
-    vector<double> integralCoeffs(this->coeffs.size() + 1, 0);
-    for (int i = 0; i < this->coeffs.size(); i++) {
-        integralCoeffs[i + 1] = this->coeffs[i] / (i + 1);
+    vector<double> result(coeffs.size() + 1, 0);
+    for (size_t i = 0; i < coeffs.size(); ++i) {
+        result[i + 1] = coeffs[i] / (i + 1);
     }
-    return Polynomial(integralCoeffs);
+    return Polynomial(result);
 }
 
+// Definite integral from x1 to x2
 double Polynomial::integral(double x1, double x2) const {
-    Polynomial integralPoly = this->integral();
-    // Evaluate the indefinite integral at x2 and x1, then subtract
-    return integralPoly.evaluate(x2) - integralPoly.evaluate(x1);
+    Polynomial integral_poly = integral();
+    return integral_poly.evaluate(x2) - integral_poly.evaluate(x1);
 }
 
+// Newton's method to find a root
 double Polynomial::getRoot(double guess, double tolerance, int maxIter) {
-    double x = guess;
-
-    for (int i = 0; i < maxIter; i++) {
-        double fx = this->evaluate(x);       // p(x)
-        double fpx = this->derivative().evaluate(x);  // p'(x)
-
-        if (std::fabs(fx) < tolerance) {
-            return x;  // Root found within tolerance
-        }
-
-        // Update x using Newton's method
-        x = x - fx / fpx;
+    double x0 = guess;
+    for (int i = 0; i < maxIter; ++i) {
+        double y = evaluate(x0);
+        double y_prime = derivative().evaluate(x0);
+        if (abs(y_prime) < tolerance) break; // Avoid division by zero
+        double x1 = x0 - y / y_prime;
+        if (abs(x1 - x0) < tolerance) return x1;
+        x0 = x1;
     }
-
-    // If no root is found after maxIter, return the current guess
-    return x;
+    return x0; // Return the best guess
 }
 
-// Set coefficients
+// Set the coefficients
 void Polynomial::setCoefficients(const vector<double>& coefficients) {
-    this->coeffs = coefficients;
+    coeffs = coefficients;
 }
 
-// Get coefficient
+// Get the coefficient of a specific degree
 double Polynomial::getCoefficient(int degree) const {
-    if (degree < 0 || degree >= coeffs.size()) {
-        throw out_of_range("Degree out of range");
-    }
-    return coeffs[degree];
+    return (degree < coeffs.size()) ? coeffs[degree] : 0;
 }
