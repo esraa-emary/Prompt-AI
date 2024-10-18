@@ -71,7 +71,7 @@ bool Polynomial::operator==(const Polynomial& other) const {
 ostream& operator<<(ostream& out, const Polynomial& poly) {
     for (int i = poly.coeffs.size() - 1; i >= 0; --i) {
         if (poly.coeffs[i] != 0) {
-            if (i != poly.coeffs.size() - 1 && poly.coeffs[i] > 0) out << "+";
+            if (i != poly.coeffs.size() - 1 && poly.coeffs[i] > 0) out << "+ ";
             out << poly.coeffs[i];
             if (i > 0) out << "x^" << i << " ";
         }
@@ -81,7 +81,13 @@ ostream& operator<<(ostream& out, const Polynomial& poly) {
 
 // Utility functions
 int Polynomial::degree() const {
-    return coeffs.size() - 1;
+    // Iterate from the end of the coefficient vector to find the highest non-zero coefficient
+    for (int i = coeffs.size() - 1; i >= 0; --i) {
+        if (coeffs[i] != 0) {
+            return i; // Return the index of the highest non-zero coefficient
+        }
+    }
+    return -1; // Return -1 if all coefficients are zero (the zero polynomial)
 }
 
 double Polynomial::evaluate(double x) const {
@@ -128,24 +134,29 @@ double Polynomial::integral(double x1, double x2) const {
     return integralPoly.evaluate(x2) - integralPoly.evaluate(x1);
 }
 
+// Function to find a single root using Newton's method
 double Polynomial::getRoot(double guess, double tolerance, int maxIter) {
-    double x = guess;
+    double x = guess; // Start with the initial guess
+    for (int i = 0; i < maxIter; ++i) {
+        double f_x = evaluate(x); // Evaluate the polynomial at x
+        double f_prime_x = derivative().evaluate(x); // Evaluate the derivative at x
 
-    for (int i = 0; i < maxIter; i++) {
-        double fx = this->evaluate(x);       // p(x)
-        double fpx = this->derivative().evaluate(x);  // p'(x)
-
-        if (std::fabs(fx) < tolerance) {
-            return x;  // Root found within tolerance
+        if (fabs(f_x) < tolerance) {
+            return x; // Found a root
         }
 
-        // Update x using Newton's method
-        x = x - fx / fpx;
+        // Prevent division by zero
+        if (fabs(f_prime_x) < tolerance) {
+            return numeric_limits<double>::quiet_NaN(); // Return NaN if derivative is too small
+        }
+
+        x -= f_x / f_prime_x; // Update x using Newton's method
     }
 
-    // If no root is found after maxIter, return the current guess
-    return x;
+    return numeric_limits<double>::quiet_NaN(); // Return NaN if no root found within max iterations
 }
+
+
 
 // Set coefficients
 void Polynomial::setCoefficients(const vector<double>& coefficients) {
