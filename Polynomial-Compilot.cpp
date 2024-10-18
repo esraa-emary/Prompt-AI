@@ -121,19 +121,33 @@ double Polynomial::integral(double x1, double x2) const {
     return integral_poly.evaluate(x2) - integral_poly.evaluate(x1);
 }
 
-// Newton's method to find a root
 double Polynomial::getRoot(double guess, double tolerance, int maxIter) {
     double x0 = guess;
     for (int i = 0; i < maxIter; ++i) {
         double y = evaluate(x0);
         double y_prime = derivative().evaluate(x0);
-        if (abs(y_prime) < tolerance) break; // Avoid division by zero
+
+        // Check for a very small derivative to avoid division by zero
+        if (abs(y_prime) < tolerance) break;
+
         double x1 = x0 - y / y_prime;
-        if (abs(x1 - x0) < tolerance) return x1;
+
+        // If the new guess is very close to the old guess, stop iterating
+        if (abs(x1 - x0) < tolerance) {
+            // Check if the found root is indeed real
+            if (abs(evaluate(x1)) < tolerance) {
+                return x1;
+            } else {
+                break; // If not a real root, break the loop
+            }
+        }
+
         x0 = x1;
     }
+
     return x0; // Return the best guess
 }
+
 
 // Set the coefficients
 void Polynomial::setCoefficients(const vector<double>& coefficients) {
