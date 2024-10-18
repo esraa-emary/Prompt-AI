@@ -1,0 +1,1448 @@
+Polynomial 1: 3x^8 + 5x^7 + 11x^6 -4x^5 + 6x^4 + 14x^3 + 6x^2 + 5x^1 + 11
+Polynomial 2: -3x^8 -8x^7 -13x^6 + 6x^4 + 6x^3 + 2x^2 -1x^1 -9
+Sum: -3x^7 -2x^6 -4x^5 + 12x^4 + 20x^3 + 8x^2 + 4x^1 + 2
+Subtraction: 6x^8 + 13x^7 + 24x^6 -4x^5 + 8x^3 + 4x^2 + 6x^1 + 20
+Product: -9x^16 -39x^15 -112x^14 -141x^13 -111x^12 + 10x^11 -106x^10 -196x^9 -149x^8 -97x^7 -106x^6 + 124x^5 + 40x^4 -56
+x^3 -37x^2 -56x^1 -99
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 2237
+Derivative: 24x^7 + 35x^6 + 66x^5 -20x^4 + 24x^3 + 42x^2 + 12x^1 + 5
+Integral: 0.333333x^9 + 0.625x^8 + 1.57143x^7 -0.666667x^6 + 1.2x^5 + 3.5x^4 + 2x^3 + 2.5x^2 + 11x^1
+Definite integration from x=0 to x=1: 22.0631
+Real roots of Polynomial 1: []
+
+
+Polynomial 1: -8x^4 + 2x^3 -8x^2 -13x^1 + 1
+Polynomial 2: -13x^4 -1x^3 + 1x^2 -9x^1 + 2
+Sum: -21x^4 + 1x^3 -7x^2 -22x^1 + 3
+Subtraction: 5x^4 + 3x^3 -9x^2 -4x^1 -1
+Product: 104x^8 -18x^7 + 94x^6 + 251x^5 -42x^4 + 62x^3 + 102x^2 -35x^1 + 2
+Degree of Polynomial: 4
+Evaluation of polynomial at x=2: -169
+Derivative: -32x^3 + 6x^2 -16x^1 -13
+Integral: -1.6x^5 + 0.5x^4 -2.66667x^3 -6.5x^2 + 1x^1
+Definite integration from x=0 to x=1: -9.26667
+Real roots of Polynomial 1: [-0.883044, 0.0736302]
+
+
+Polynomial 1: 7x^2 -2x^1 + 14
+Polynomial 2: -12x^2 + 7x^1 -14
+Sum: -5x^2 + 5x^1
+Subtraction: 19x^2 -9x^1 + 28
+Product: -84x^4 + 73x^3 -280x^2 + 126x^1 -196
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 38
+Derivative: 14x^1 -2
+Integral: 2.33333x^3 -1x^2 + 14x^1
+Definite integration from x=0 to x=1: 15.3333
+Real roots of Polynomial 1: []
+
+
+Polynomial 1: 6x^2 + 5x^1 + 13
+Polynomial 2: 11x^2 -12x^1 + 3
+Sum: 17x^2 -7x^1 + 16
+Subtraction: -5x^2 + 17x^1 + 10
+Product: 66x^4 -17x^3 + 101x^2 -141x^1 + 39
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 47
+Derivative: 12x^1 + 5
+Integral: 2x^3 + 2.5x^2 + 13x^1
+Definite integration from x=0 to x=1: 17.5
+Real roots of Polynomial 1: []
+
+
+Polynomial 1: 1x^9 + 12x^8 + 12x^7 + 14x^6 -6x^5 -2x^4 + 15x^3 + 8x^2 -2x^1 -1
+Polynomial 2: -3x^9 -13x^8 + 7x^7 + 8x^6 + 14x^5 -2x^4 + 11x^3 -7x^2 + 15
+Sum: -2x^9 -1x^8 + 19x^7 + 22x^6 + 8x^5 -4x^4 + 26x^3 + 1x^2 -2x^1 + 14
+Subtraction: 4x^9 + 25x^8 + 5x^7 + 6x^6 -20x^5 + 4x^3 + 15x^2 -2x^1 -16
+Product: -3x^18 -49x^17 -185x^16 -106x^15 + 30x^14 + 444x^13 + 206x^12 + 16x^11 -73x^10 + 274x^9 + 293x^8 + 259x^7 + 337
+x^6 -117x^5 -106x^4 + 228x^3 + 127x^2 -30x^1 -15
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: 5939
+Derivative: 9x^8 + 96x^7 + 84x^6 + 84x^5 -30x^4 -8x^3 + 45x^2 + 16x^1 -2
+Integral: 0.1x^10 + 1.33333x^9 + 1.5x^8 + 2x^7 -1x^6 -0.4x^5 + 3.75x^4 + 2.66667x^3 -1x^2 -1x^1
+Definite integration from x=0 to x=1: 7.95
+Real roots of Polynomial 1: [-0.327602, 0.361037]
+
+
+Polynomial 1: 5x^11 -6x^9 -13x^8 -11x^7 -7x^6 + 9x^5 + 12x^4 -11x^3 -13x^2 + 14x^1 -4
+Polynomial 2: 4x^11 -1x^10 + 3x^9 + 4x^8 + 1x^7 -1x^6 -13x^5 -10x^4 -12x^2 -12x^1 -8
+Sum: 9x^11 -1x^10 -3x^9 -9x^8 -10x^7 -8x^6 -4x^5 + 2x^4 -11x^3 -25x^2 + 2x^1 -12
+Subtraction: 1x^11 + 1x^10 -9x^9 -17x^8 -12x^7 -6x^6 + 22x^5 + 22x^4 -11x^3 -1x^2 + 26x^1 + 4
+Product: 20x^22 -5x^21 -9x^20 -26x^19 -44x^18 -85x^17 -113x^16 -83x^15 + 23x^14 + 204x^13 + 313x^12 + 123x^11 + 152x^10
++ 132x^9 + 354x^8 + 325x^7 -244x^6 -172x^5 + 232x^4 + 76x^3 -16x^2 -64x^1 + 32
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 2348
+Derivative: 55x^10 -54x^8 -104x^7 -77x^6 -42x^5 + 45x^4 + 48x^3 -33x^2 -26x^1 + 14
+Integral: 0.416667x^12 -0.6x^10 -1.44444x^9 -1.375x^8 -1x^7 + 1.5x^6 + 2.4x^5 -2.75x^4 -4.33333x^3 + 7x^2 -4x^1
+Definite integration from x=0 to x=1: -4.18611
+Real roots of Polynomial 1: [1.82167]
+
+
+Polynomial 1: 3x^2 + 9x^1 -14
+Polynomial 2: 13x^2 -3x^1 + 5
+Sum: 16x^2 + 6x^1 -9
+Subtraction: -10x^2 + 12x^1 -19
+Product: 39x^4 + 108x^3 -194x^2 + 87x^1 -70
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 16
+Derivative: 6x^1 + 9
+Integral: 1x^3 + 4.5x^2 -14x^1
+Definite integration from x=0 to x=1: -8.5
+Real roots of Polynomial 1: [-4.12996, 1.12996]
+
+
+Polynomial 1: 1x^11 -2x^10 + 2x^9 + 4x^8 + 11x^7 -1x^6 + 5x^5 + 5x^4 -9x^2 + 13x^1 -4
+Polynomial 2: -14x^10 + 5x^9 -9x^8 -13x^7 -14x^6 -11x^5 + 3x^4 -10x^3 + 9x^2 + 12x^1 + 9
+Sum: 1x^11 -16x^10 + 7x^9 -5x^8 -2x^7 -15x^6 -6x^5 + 8x^4 -10x^3 + 25x^1 + 5
+Subtraction: 1x^11 + 12x^10 -3x^9 + 13x^8 + 24x^7 + 13x^6 + 16x^5 + 2x^4 + 10x^3 -18x^2 + 1x^1 -13
+Product: -14x^21 + 33x^20 -47x^19 -41x^18 -140x^17 + 24x^16 -229x^15 -273x^14 -170x^13 -105x^12 -355x^11 + 6x^10 + 115x^
+9 + 117x^8 + 51x^7 -18x^6 + 278x^5 -178x^4 + 49x^3 + 39x^2 + 69x^1 -36
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 3618
+Derivative: 11x^10 -20x^9 + 18x^8 + 32x^7 + 77x^6 -6x^5 + 25x^4 + 20x^3 -18x^1 + 13
+Integral: 0.0833333x^12 -0.181818x^11 + 0.2x^10 + 0.444444x^9 + 1.375x^8 -0.142857x^7 + 0.833333x^6 + 1x^5 -3x^3 + 6.5x^
+2 -4x^1
+Definite integration from x=0 to x=1: 3.11144
+Real roots of Polynomial 1: [0.405458]
+
+
+Polynomial 1: -4
+Polynomial 2: -5
+Sum: -9
+Subtraction: 1
+Product: 20
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: -4
+Derivative:
+Integral: -4x^1
+Definite integration from x=0 to x=1: -4
+Real roots of Polynomial 1: []
+
+
+Polynomial 1: 6x^5 + 8x^4 -4x^3 -5x^2 + 4x^1 -3
+Polynomial 2: -8x^5 -2x^4 -11x^3 -2x^2 -13x^1
+Sum: -2x^5 + 6x^4 -15x^3 -7x^2 -9x^1 -3
+Subtraction: 14x^5 + 10x^4 + 7x^3 -3x^2 + 17x^1 -3
+Product: -48x^10 -76x^9 -50x^8 -52x^7 -72x^6 -25x^5 + 24x^4 + 90x^3 -46x^2 + 39x^1
+Degree of Polynomial: 5
+Evaluation of polynomial at x=2: 273
+Derivative: 30x^4 + 32x^3 -12x^2 -10x^1 + 4
+Integral: 1x^6 + 1.6x^5 -1x^4 -1.66667x^3 + 2x^2 -3x^1
+Definite integration from x=0 to x=1: -1.06667
+Real roots of Polynomial 1: [0.78815]
+
+
+Polynomial 1: -13x^6 + 4x^5 + 15x^4 -7x^3 + 4x^2 + 8x^1 -7
+Polynomial 2: -14x^7 -14x^6 + 10x^5 + 15x^4 -4x^3 -14x^2 + 9x^1 -5
+Sum: -14x^7 -27x^6 + 14x^5 + 30x^4 -11x^3 -10x^2 + 17x^1 -12
+Subtraction: 14x^7 + 1x^6 -6x^5 -3x^3 + 18x^2 -1x^1 -2
+Product: + 182x^13 + 126x^12 -396x^11 -267x^10 + 304x^9 + 153x^8 -312x^7 + 157x^6 + 247x^5 -331x^4 -13x^3 + 150x^2 -103x
+^1 + 35
+Degree of Polynomial: 6
+Evaluation of polynomial at x=2: -495
+Derivative: -78x^5 + 20x^4 + 60x^3 -21x^2 + 8x^1 + 8
+Integral: -1.85714x^7 + 0.666667x^6 + 3x^5 -1.75x^4 + 1.33333x^3 + 4x^2 -7x^1
+Definite integration from x=0 to x=1: -1.60714
+Real roots of Polynomial 1: [0.641568, 1.17314]
+
+
+
+Polynomial 1: 5
+Polynomial 2: 1
+Sum: 6
+Subtraction: 4
+Product: 5
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: 5
+Derivative:
+Integral: 5x^1
+Definite integration from x=0 to x=1: 5
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 15x^10 -13x^9 -13x^8 -6x^7 + 15x^6 + 5x^5 -13x^4 -1x^3 + 13x^2 -8x^1
+Polynomial 2: 6x^10 -5x^8 + 11x^7 -8x^6 -5x^5 -5x^3 -9x^2 + 10x^1 + 3
+Sum: 21x^10 -13x^9 -18x^8 + 5x^7 + 7x^6 -13x^4 -6x^3 + 4x^2 + 2x^1 + 3
+Subtraction: 9x^10 -13x^9 -8x^8 -17x^7 + 23x^6 + 10x^5 -13x^4 + 4x^3 + 22x^2 -18x^1 -3
+Product: 90x^20 -78x^19 -153x^18 + 194x^17 -108x^16 -54x^15 -50x^14 + 172x^13 + 38x^12 + 31x^11 + 65x^10 + 66x^9 -446x^8
+ + 151x^7 + 257x^6 -171x^5 -126x^4 + 199x^3 -41x^2 -24x^1
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 5548
+Derivative: 150x^9 -117x^8 -104x^7 -42x^6 + 90x^5 + 25x^4 -52x^3 -3x^2 + 26x^1 -8
+Integral: 1.36364x^11 -1.3x^10 -1.44444x^9 -0.75x^8 + 2.14286x^7 + 0.833333x^6 -2.6x^5 -0.25x^4 + 4.33333x^3 -4x^2
+Definite integration from x=0 to x=1: -1.67128
+Real roots of Polynomial 1: [-2.15371e-09, 1.36622]
+
+
+
+Polynomial 1: -14x^2 + 10x^1 -2
+Polynomial 2: -1x^2 + 5x^1 -6
+Sum: -15x^2 + 15x^1 -8
+Subtraction: -13x^2 + 5x^1 + 4
+Product: 14x^4 -80x^3 + 136x^2 -70x^1 + 12
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -38
+Derivative: -28x^1 + 10
+Integral: -4.66667x^3 + 5x^2 -2x^1
+Definite integration from x=0 to x=1: -1.66667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: -5
+Polynomial 2: -3
+Sum: -8
+Subtraction: -2
+Product: 15
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: -5
+Derivative:
+Integral: -5x^1
+Definite integration from x=0 to x=1: -5
+Real roots of Polynomial 1: []
+
+
+Polynomial 1: 15x^11 + 1x^9 -5x^8 + 12x^7 -10x^6 -3x^5 -8x^4 + 5x^3 -7x^2 -4x^1 -6
+Polynomial 2: 6x^11 + 5x^10 + 14x^9 -3x^8 + 8x^7 + 5x^6 + 3x^5 -5x^4 + 5x^3 + 1x^2 + 10x^1 + 1
+Sum: 21x^11 + 5x^10 + 15x^9 -8x^8 + 20x^7 -5x^6 -13x^4 + 10x^3 -6x^2 + 6x^1 -5
+Subtraction: 9x^11 -5x^10 -13x^9 -2x^8 + 4x^7 -15x^6 -6x^5 -3x^4 -8x^2 -14x^1 -7
+Product: 90x^22 + 75x^21 + 216x^20 -70x^19 + 181x^18 + 2x^17 + 168x^16 -349x^15 + 127x^14 -145x^13 + 177x^12 -347x^11 +
+41x^10 -199x^9 + 96x^8 -245x^7 -30x^6 -111x^5 + 45x^4 -99x^3 -53x^2 -64x^1 -6
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 30622
+Derivative: 165x^10 + 9x^8 -40x^7 + 84x^6 -60x^5 -15x^4 -32x^3 + 15x^2 -14x^1 -4
+Integral: 1.25x^12 + 0.1x^10 -0.555556x^9 + 1.5x^8 -1.42857x^7 -0.5x^6 -1.6x^5 + 1.25x^4 -2.33333x^3 -2x^2 -6x^1
+Definite integration from x=0 to x=1: -10.3175
+Real roots of Polynomial 1: [1.06092]
+
+
+
+Polynomial 1: 3x^6 -8x^5 -2x^4 + 5x^3 + 10x^2 -2x^1 + 3
+Polynomial 2: -6x^6 -8x^5 + 13x^4 + 10x^3 -10x^2 + 4x^1 + 11
+Sum: -3x^6 -16x^5 + 11x^4 + 15x^3 + 2x^1 + 14
+Subtraction: 9x^6 -15x^4 -5x^3 + 20x^2 -6x^1 -8
+Product: -18x^12 + 24x^11 + 115x^10 -88x^9 -236x^8 + 69x^7 + 199x^6 -96x^5 -83x^4 + 145x^3 + 72x^2 -10x^1 + 33
+Degree of Polynomial: 6
+Evaluation of polynomial at x=2: -17
+Derivative: 18x^5 -40x^4 -8x^3 + 15x^2 + 20x^1 -2
+Integral: 0.428571x^7 -1.33333x^6 -0.4x^5 + 1.25x^4 + 3.33333x^3 -1x^2 + 3x^1
+Definite integration from x=0 to x=1: 5.27857
+Real roots of Polynomial 1: [1.57895, 2.43626]
+
+
+
+Polynomial 1: -1
+Polynomial 2: -4
+Sum: -5
+Subtraction: 3
+Product: 4
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: -1
+Derivative:
+Integral: -1x^1
+Definite integration from x=0 to x=1: -1
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 10x^8 -7x^7 + 11x^6 -3x^5 -2x^4 -6x^3 -11x^2 + 13x^1 -9
+Polynomial 2: -10x^7 -7x^6 + 15x^5 + 3x^4 + 14x^3 + 10x^2 -1x^1 + 4
+Sum: 10x^8 -17x^7 + 4x^6 + 12x^5 + 1x^4 + 8x^3 -1x^2 + 12x^1 -5
+Subtraction: 10x^8 + 3x^7 + 18x^6 -18x^5 -5x^4 -20x^3 -21x^2 + 14x^1 -13
+Product: -100x^15 + 89x^13 -122x^12 + 325x^11 + 64x^10 + 187x^9 -34x^8 -281x^7 + 168x^6 -320x^5 + 43x^4 -9x^3 -147x^2 +
+61x^1 -36
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 2165
+Derivative: 80x^7 -49x^6 + 66x^5 -15x^4 -8x^3 -18x^2 -22x^1 + 13
+Integral: 1.11111x^9 -0.875x^8 + 1.57143x^7 -0.5x^6 -0.4x^5 -1.5x^4 -3.66667x^3 + 6.5x^2 -9x^1
+Definite integration from x=0 to x=1: -6.75913
+Real roots of Polynomial 1: [-0.988777, 1.06306]
+
+
+
+Polynomial 1: 4x^10 -9x^9 + 7x^8 + 14x^7 -3x^6 + 15x^5 + 4x^4 -14x^3 -9x^2 + 6x^1 -5
+Polynomial 2: -4x^10 -12x^8 + 5x^7 + 1x^6 + 12x^5 -12x^4 + 7x^2 -14x^1 + 11
+Sum: -9x^9 -5x^8 + 19x^7 -2x^6 + 27x^5 -8x^4 -14x^3 -2x^2 -8x^1 + 6
+Subtraction: 8x^10 -9x^9 + 19x^8 + 9x^7 -4x^6 + 3x^5 + 16x^4 -14x^3 -16x^2 + 20x^1 -16
+Product: -16x^20 + 36x^19 -76x^18 + 72x^17 -113x^16 -154x^15 -59x^14 + 67x^13 + 172x^12 -144x^11 + 497x^10 -362x^9 -275x
+^8 + 342x^7 -40x^6 -121x^5 + 237x^4 + 14x^3 -218x^2 + 136x^1 -55
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 3283
+Derivative: 40x^9 -81x^8 + 56x^7 + 98x^6 -18x^5 + 75x^4 + 16x^3 -42x^2 -18x^1 + 6
+Integral: 0.363636x^11 -0.9x^10 + 0.777778x^9 + 1.75x^8 -0.428571x^7 + 2.5x^6 + 0.8x^5 -3.5x^4 -3x^3 + 3x^2 -5x^1
+Definite integration from x=0 to x=1: -3.63716
+Real roots of Polynomial 1: [-1.15304, 0.893605]
+
+
+
+Polynomial 1: 12x^8 -10x^7 + 1x^6 + 1x^5 + 10x^4 -12x^3 -6x^2 -9x^1 -6
+Polynomial 2: -2x^8 + 3x^7 + 2x^6 -1x^5 -6x^4 + 8x^3 + 12x^2 -1x^1 -6
+Sum: 10x^8 -7x^7 + 3x^6 + 4x^4 -4x^3 + 6x^2 -10x^1 -12
+Subtraction: 14x^8 -13x^7 -1x^6 + 2x^5 + 16x^4 -20x^3 -18x^2 -8x^1
+Product: -24x^16 + 56x^15 -8x^14 -31x^13 -77x^12 + 211x^11 + 53x^10 -164x^9 -117x^8 + 193x^7 + 50x^6 -148x^5 -156x^4 -78
+x^3 -27x^2 + 60x^1 + 36
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 1904
+Derivative: 96x^7 -70x^6 + 6x^5 + 5x^4 + 40x^3 -36x^2 -12x^1 -9
+Integral: 1.33333x^9 -1.25x^8 + 0.142857x^7 + 0.166667x^6 + 2x^5 -3x^4 -2x^3 -4.5x^2 -6x^1
+Definite integration from x=0 to x=1: -13.1071
+Real roots of Polynomial 1: [-0.537744, 1.22487]
+
+
+
+Polynomial 1: 8x^4 -8x^3 + 14x^2 -6x^1 + 8
+Polynomial 2: 8x^4 + 3x^3 -11x^2 -3x^1 -9
+Sum: 16x^4 -5x^3 + 3x^2 -9x^1 -1
+Subtraction: -11x^3 + 25x^2 -3x^1 + 17
+Product: 64x^8 -40x^7 + 58x^5 -156x^4 + 120x^3 -196x^2 + 30x^1 -72
+Degree of Polynomial: 4
+Evaluation of polynomial at x=2: 116
+Derivative: 32x^3 -24x^2 + 28x^1 -6
+Integral: 1.6x^5 -2x^4 + 4.66667x^3 -3x^2 + 8x^1
+Definite integration from x=0 to x=1: 9.26667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 7x^8 + 8x^7 -7x^6 -10x^5 + 5x^4 -8x^3 + 10x^2 -9x^1 -10
+Polynomial 2: 8x^8 + 13x^6 + 1x^5 + 12x^4 + 12x^3 + 10x^2 + 10x^1 -10
+Sum: 15x^8 + 8x^7 + 6x^6 -9x^5 + 17x^4 + 4x^3 + 20x^2 + 1x^1 -20
+Subtraction: -1x^8 + 8x^7 -20x^6 -11x^5 -7x^4 -20x^3 -19x^1
+Product: 56x^16 + 64x^15 + 35x^14 + 31x^13 + 41x^12 -21x^11 + 217x^10 -225x^9 -78x^8 -393x^7 -95x^6 + 72x^5 -258x^4 -30x
+^3 -290x^2 -10x^1 + 100
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 2076
+Derivative: 56x^7 + 56x^6 -42x^5 -50x^4 + 20x^3 -24x^2 + 20x^1 -9
+Integral: 0.777778x^9 + 1x^8 -1x^7 -1.66667x^6 + 1x^5 -2x^4 + 3.33333x^3 -4.5x^2 -10x^1
+Definite integration from x=0 to x=1: -13.0556
+Real roots of Polynomial 1: [-0.549695, 1.18083]
+
+
+
+Polynomial 1: 13x^11 + 14x^10 -11x^9 -6x^8 + 3x^7 -2x^6 + 2x^5 + 2x^4 + 4x^3 + 8x^2 + 2x^1 + 12
+Polynomial 2: 1x^11 -2x^10 + 10x^9 -5x^8 -12x^7 + 1x^6 -8x^5 + 11x^4 -13x^3 + 11x^2 -14x^1 -12
+Sum: 14x^11 + 12x^10 -1x^9 -11x^8 -9x^7 -1x^6 -6x^5 + 13x^4 -9x^3 + 19x^2 -12x^1
+Subtraction: 12x^11 + 16x^10 -21x^9 -1x^8 + 15x^7 -3x^6 + 10x^5 -9x^4 + 17x^3 -3x^2 + 16x^1 + 24
+Product: 13x^22 -12x^21 + 91x^20 + 91x^19 -321x^18 -168x^17 + 108x^16 + 55x^15 + 61x^14 -75x^13 + 15x^12 -300x^11 -247x^
+10 + 299x^9 -104x^8 -174x^7 + 50x^6 -186x^5 + 114x^4 -294x^3 + 8x^2 -192x^1 -144
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 34224
+Derivative: 143x^10 + 140x^9 -99x^8 -48x^7 + 21x^6 -12x^5 + 10x^4 + 8x^3 + 12x^2 + 16x^1 + 2
+Integral: 1.08333x^12 + 1.27273x^11 -1.1x^10 -0.666667x^9 + 0.375x^8 -0.285714x^7 + 0.333333x^6 + 0.4x^5 + 1x^4 + 2.6666
+7x^3 + 1x^2 + 12x^1
+Definite integration from x=0 to x=1: 18.0787
+Real roots of Polynomial 1: [-1.35456]
+
+
+
+Polynomial 1: -9x^9 + 12x^8 -9x^7 -9x^6 -6x^5 -6x^4 -10x^3 -8x^2 + 3x^1 -2
+Polynomial 2: 11x^9 -14x^8 + 6x^7 -7x^6 + 2x^5 -10x^4 + 15x^3 + 7x^2 + 8x^1 -4
+Sum: 2x^9 -2x^8 -3x^7 -16x^6 -4x^5 -16x^4 + 5x^3 -1x^2 + 11x^1 -6
+Subtraction: -20x^9 + 26x^8 -15x^7 -2x^6 -8x^5 + 4x^4 -25x^3 -15x^2 -5x^1 + 2
+Product: -99x^18 + 258x^17 -321x^16 + 162x^15 -96x^14 + 141x^13 -272x^12 + 247x^11 + 82x^10 -60x^9 -131x^8 -117x^7 -104x
+^6 -248x^5 -47x^4 -33x^3 + 42x^2 -28x^1 + 8
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: -3660
+Derivative: -81x^8 + 96x^7 -63x^6 -54x^5 -30x^4 -24x^3 -30x^2 -16x^1 + 3
+Integral: -0.9x^10 + 1.33333x^9 -1.125x^8 -1.28571x^7 -1x^6 -1.2x^5 -2.5x^4 -2.66667x^3 + 1.5x^2 -2x^1
+Definite integration from x=0 to x=1: -9.84405
+Real roots of Polynomial 1: [-0.846768]
+
+
+
+Polynomial 1: 9x^7 + 6x^6 + 10x^5 -2x^4 -8x^3 + 6x^2 -4x^1 -1
+Polynomial 2: 15x^7 + 8x^5 -10x^4 + 7x^3 + 4x^2 -7x^1 -14
+Sum: 24x^7 + 6x^6 + 18x^5 -12x^4 -1x^3 + 10x^2 -11x^1 -15
+Subtraction: -6x^7 + 6x^6 + 2x^5 + 8x^4 -15x^3 + 2x^2 + 3x^1 + 13
+Product: 135x^14 + 90x^13 + 222x^12 -72x^11 -37x^10 + 52x^9 -73x^8 -29x^7 -310x^6 -84x^5 + 90x^4 + 47x^3 -60x^2 + 63x^1
++ 14
+Degree of Polynomial: 7
+Evaluation of polynomial at x=2: 1775
+Derivative: 63x^6 + 36x^5 + 50x^4 -8x^3 -24x^2 + 12x^1 -4
+Integral: 1.125x^8 + 0.857143x^7 + 1.66667x^6 -0.4x^5 -2x^4 + 2x^3 -2x^2 -1x^1
+Definite integration from x=0 to x=1: 0.24881
+Real roots of Polynomial 1: [-1.0382, -0.186199, 0.7496]
+
+
+
+Polynomial 1: -9
+Polynomial 2: 12
+Sum: 3
+Subtraction: -21
+Product: -108
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: -9
+Derivative:
+Integral: -9x^1
+Definite integration from x=0 to x=1: -9
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 13x^10 + 13x^9 -4x^8 + 5x^7 + 13x^6 -3x^5 + 2x^4 -1x^3 + 10x^2 -10x^1 -1
+Polynomial 2: 12x^10 + 9x^9 + 7x^8 -1x^7 -8x^6 + 3x^5 + 3x^4 + 12x^3 + 7x^2 + 12x^1 + 4
+Sum: 25x^10 + 22x^9 + 3x^8 + 4x^7 + 5x^6 + 5x^4 + 11x^3 + 17x^2 + 2x^1 + 3
+Subtraction: 1x^10 + 4x^9 -11x^8 + 6x^7 + 21x^6 -6x^5 -1x^4 -13x^3 + 3x^2 -22x^1 -5
+Product: 156x^20 + 273x^19 + 160x^18 + 102x^17 + 56x^16 + 55x^15 + 193x^14 + 115x^13 + 274x^12 + 238x^11 + 223x^10 + 111
+x^9 + 25x^8 + 287x^7 + 26x^6 + 92x^5 -57x^4 + 34x^3 -87x^2 -52x^1 -4
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 20363
+Derivative: 130x^9 + 117x^8 -32x^7 + 35x^6 + 78x^5 -15x^4 + 8x^3 -3x^2 + 20x^1 -10
+Integral: 1.18182x^11 + 1.3x^10 -0.444444x^9 + 0.625x^8 + 1.85714x^7 -0.5x^6 + 0.4x^5 -0.25x^4 + 3.33333x^3 -5x^2 -1x^1
+
+Definite integration from x=0 to x=1: 1.50285
+Real roots of Polynomial 1: [-0.0915291, 0.727056]
+
+
+
+Polynomial 1: 15x^1 -5
+Polynomial 2: + 8
+Sum: 15x^1 + 3
+Subtraction: 15x^1 -13
+Product: + 120x^1 -40
+Degree of Polynomial: 1
+Evaluation of polynomial at x=2: 25
+Derivative: 15
+Integral: 7.5x^2 -5x^1
+Definite integration from x=0 to x=1: 2.5
+Real roots of Polynomial 1: [0.333333]
+
+
+
+Polynomial 1: 8x^6 + 6x^5 + 9x^4 + 5x^3 + 6x^2 + 6x^1 -14
+Polynomial 2: 12x^6 -8x^5 + 8x^4 -4x^3 + 13x^2 -9x^1 -11
+Sum: 20x^6 -2x^5 + 17x^4 + 1x^3 + 19x^2 -3x^1 -25
+Subtraction: -4x^6 + 14x^5 + 1x^4 + 9x^3 -7x^2 + 15x^1 -3
+Product: 96x^12 + 8x^11 + 124x^10 + 4x^9 + 184x^8 + 34x^7 -213x^6 + 54x^5 -202x^4 + 25x^3 -302x^2 + 60x^1 + 154
+Degree of Polynomial: 6
+Evaluation of polynomial at x=2: 910
+Derivative: 48x^5 + 30x^4 + 36x^3 + 15x^2 + 12x^1 + 6
+Integral: 1.14286x^7 + 1x^6 + 1.8x^5 + 1.25x^4 + 2x^3 + 3x^2 -14x^1
+Definite integration from x=0 to x=1: -3.80714
+Real roots of Polynomial 1: [-1.13072, 0.720174]
+
+
+
+Polynomial 1: -8x^2 -2x^1 -14
+Polynomial 2: -8x^2 + 2x^1 + 10
+Sum: -16x^2 -4
+Subtraction: -4x^1 -24
+Product: 64x^4 + 28x^2 -48x^1 -140
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -50
+Derivative: -16x^1 -2
+Integral: -2.66667x^3 -1x^2 -14x^1
+Definite integration from x=0 to x=1: -17.6667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 1x^7 -1x^6 + 3x^5 + 14x^4 -12x^3 + 8x^2 + 9x^1 -13
+Polynomial 2: -1x^7 + 1x^6 -1x^5 + 15x^4 -3x^3 + 15x^2 -6x^1 -5
+Sum: + 2x^5 + 29x^4 -15x^3 + 23x^2 + 3x^1 -18
+Subtraction: 2x^7 -2x^6 + 4x^5 -1x^4 -9x^3 -7x^2 + 15x^1 -8
+Product: -1x^14 + 2x^13 -5x^12 + 5x^11 + 5x^10 + 29x^9 + 191x^8 -162x^7 + 331x^6 -155x^5 -100x^4 + 186x^3 -289x^2 + 33x^
+1 + 65
+Degree of Polynomial: 7
+Evaluation of polynomial at x=2: 325
+Derivative: 7x^6 -6x^5 + 15x^4 + 56x^3 -36x^2 + 16x^1 + 9
+Integral: 0.125x^8 -0.142857x^7 + 0.5x^6 + 2.8x^5 -3x^4 + 2.66667x^3 + 4.5x^2 -13x^1
+Definite integration from x=0 to x=1: -5.55119
+Real roots of Polynomial 1: [-2.09626, -0.890774, 0.804721]
+
+
+
+Polynomial 1: -14x^2 + 9x^1 + 1
+Polynomial 2: 9x^2 -8x^1 -11
+Sum: -5x^2 + 1x^1 -10
+Subtraction: -23x^2 + 17x^1 + 12
+Product: -126x^4 + 193x^3 + 91x^2 -107x^1 -11
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -37
+Derivative: -28x^1 + 9
+Integral: -4.66667x^3 + 4.5x^2 + 1x^1
+Definite integration from x=0 to x=1: 0.833333
+Real roots of Polynomial 1: [-0.0965964, 0.739454]
+
+
+
+Polynomial 1: -8x^2 -13x^1 -6
+Polynomial 2: 7x^2 + 13x^1 + 3
+Sum: -1x^2 -3
+Subtraction: -15x^2 -26x^1 -9
+Product: -56x^4 -195x^3 -235x^2 -117x^1 -18
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -64
+Derivative: -16x^1 -13
+Integral: -2.66667x^3 -6.5x^2 -6x^1
+Definite integration from x=0 to x=1: -15.1667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 11x^2 -11x^1 -14
+Polynomial 2: -10x^2 + 4x^1 -14
+Sum: 1x^2 -7x^1 -28
+Subtraction: 21x^2 -15x^1
+Product: -110x^4 + 154x^3 -58x^2 + 98x^1 + 196
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 8
+Derivative: 22x^1 -11
+Integral: 3.66667x^3 -5.5x^2 -14x^1
+Definite integration from x=0 to x=1: -15.8333
+Real roots of Polynomial 1: [-0.733988, 1.73399]
+
+
+
+Polynomial 1: -8x^10 -5x^9 -7x^8 -8x^7 -6x^6 + 13x^5 + 4x^3 + 11x^2 + 5x^1 + 6
+Polynomial 2: 5x^10 + 15x^9 -9x^8 + 7x^7 + 10x^6 + 13x^5 + 13x^4 -4x^3 + 8x^2 + 11x^1
+Sum: -3x^10 + 10x^9 -16x^8 -1x^7 + 4x^6 + 26x^5 + 13x^4 + 19x^2 + 16x^1 + 6
+Subtraction: -13x^10 -20x^9 + 2x^8 -15x^7 -16x^6 -13x^4 + 8x^3 + 3x^2 -6x^1 + 6
+Product: -40x^20 -145x^19 -38x^18 -156x^17 -202x^16 -156x^15 -46x^14 -343x^13 -93x^12 + 2x^11 + 46x^10 + 214x^9 -45x^8 +
+ 325x^7 + 395x^6 + 131x^5 + 190x^4 + 137x^3 + 103x^2 + 66x^1
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: -13444
+Derivative: -80x^9 -45x^8 -56x^7 -56x^6 -36x^5 + 65x^4 + 12x^2 + 22x^1 + 5
+Integral: -0.727273x^11 -0.5x^10 -0.777778x^9 -1x^8 -0.857143x^7 + 2.16667x^6 + 1x^4 + 3.66667x^3 + 2.5x^2 + 6x^1
+Definite integration from x=0 to x=1: 11.4711
+Real roots of Polynomial 1: [-0.838059, 1.026]
+
+
+
+Polynomial 1: 7x^8 + 4x^7 -6x^6 -4x^5 -7x^4 -7x^3 + 3x^2 -8x^1 + 15
+Polynomial 2: 5x^8 + 7x^7 + 15x^6 + 14x^5 -5x^4 -9x^3 + 12x^2 -4x^1 -2
+Sum: 12x^8 + 11x^7 + 9x^6 + 10x^5 -12x^4 -16x^3 + 15x^2 -12x^1 + 13
+Subtraction: 2x^8 -3x^7 -21x^6 -18x^5 -2x^4 + 2x^3 -9x^2 -4x^1 + 17
+Product: 35x^16 + 69x^15 + 103x^14 + 96x^13 -132x^12 -311x^11 -117x^10 -128x^9 -65x^8 + 93x^7 + 105x^6 + 175x^5 + 75x^4
+-229x^3 + 206x^2 -44x^1 -30
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 1635
+Derivative: 56x^7 + 28x^6 -36x^5 -20x^4 -28x^3 -21x^2 + 6x^1 -8
+Integral: 0.777778x^9 + 0.5x^8 -0.857143x^7 -0.666667x^6 -1.4x^5 -1.75x^4 + 1x^3 -4x^2 + 15x^1
+Definite integration from x=0 to x=1: 8.60397
+Real roots of Polynomial 1: [0.897259, 1.20434]
+
+
+
+Polynomial 1: -5x^2 + 12x^1 + 14
+Polynomial 2: 6x^2 + 11x^1 + 7
+Sum: 1x^2 + 23x^1 + 21
+Subtraction: -11x^2 + 1x^1 + 7
+Product: -30x^4 + 17x^3 + 181x^2 + 238x^1 + 98
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 18
+Derivative: -10x^1 + 12
+Integral: -1.66667x^3 + 6x^2 + 14x^1
+Definite integration from x=0 to x=1: 18.3333
+Real roots of Polynomial 1: [-0.859126, 3.25913]
+
+
+
+Polynomial 1: -1x^1 -5
+Polynomial 2: 5x^1 -8
+Sum: 4x^1 -13
+Subtraction: -6x^1 + 3
+Product: -5x^2 -17x^1 + 40
+Degree of Polynomial: 1
+Evaluation of polynomial at x=2: -7
+Derivative: -1
+Integral: -0.5x^2 -5x^1
+Definite integration from x=0 to x=1: -5.5
+Real roots of Polynomial 1: [-5]
+
+
+
+Polynomial 1: 5x^3 + 11x^2 + 12x^1 + 5
+Polynomial 2: 11x^3 + 11x^2 -3x^1 + 12
+Sum: 16x^3 + 22x^2 + 9x^1 + 17
+Subtraction: -6x^3 + 15x^1 -7
+Product: 55x^6 + 176x^5 + 238x^4 + 214x^3 + 151x^2 + 129x^1 + 60
+Degree of Polynomial: 3
+Evaluation of polynomial at x=2: 113
+Derivative: 15x^2 + 22x^1 + 12
+Integral: 1.25x^4 + 3.66667x^3 + 6x^2 + 5x^1
+Definite integration from x=0 to x=1: 15.9167
+Real roots of Polynomial 1: [-0.769806]
+
+
+
+Polynomial 1: 1x^10 -8x^9 + 15x^7 -6x^6 -12x^5 -11x^4 + 5x^3 + 6x^2 + 3x^1 -7
+Polynomial 2: 10x^10 + 8x^9 + 7x^8 -9x^7 + 11x^6 -4x^5 + 3x^4 -7x^2 + 1x^1 + 11
+Sum: 11x^10 + 7x^8 + 6x^7 + 5x^6 -16x^5 -8x^4 + 5x^3 -1x^2 + 4x^1 + 4
+Subtraction: -9x^10 -16x^9 -7x^8 + 24x^7 -17x^6 -8x^5 -14x^4 + 5x^3 + 13x^2 + 2x^1 -18
+Product: 10x^20 -72x^19 -57x^18 + 85x^17 + 143x^16 -155x^15 -348x^14 + 73x^13 -2x^12 + 206x^11 -137x^10 -219x^9 -6x^8 +
+330x^7 -72x^6 -141x^5 -179x^4 + 40x^3 + 118x^2 + 26x^1 -77
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: -2033
+Derivative: 10x^9 -72x^8 + 105x^6 -36x^5 -60x^4 -44x^3 + 15x^2 + 12x^1 + 3
+Integral: 0.0909091x^11 -0.8x^10 + 1.875x^8 -0.857143x^7 -2x^6 -2.2x^5 + 1.25x^4 + 2x^3 + 1.5x^2 -7x^1
+Definite integration from x=0 to x=1: -6.14123
+Real roots of Polynomial 1: [-1.3999, 7.76787]
+
+
+
+Polynomial 1: -12x^3 -9x^2 -12x^1 + 3
+Polynomial 2: 7x^3 + 8x^2 -4x^1 + 15
+Sum: -5x^3 -1x^2 -16x^1 + 18
+Subtraction: -19x^3 -17x^2 -8x^1 -12
+Product: -84x^6 -159x^5 -108x^4 -219x^3 -63x^2 -192x^1 + 45
+Degree of Polynomial: 3
+Evaluation of polynomial at x=2: -153
+Derivative: -36x^2 -18x^1 -12
+Integral: -3x^4 -3x^3 -6x^2 + 3x^1
+Definite integration from x=0 to x=1: -9
+Real roots of Polynomial 1: [0.208383]
+
+
+
+Polynomial 1: 10x^9 + 12x^8 + 8x^7 -9x^6 + 15x^5 + 7x^4 + 13x^3 + 3x^2 -5x^1 + 2
+Polynomial 2: 1x^9 -2x^8 -1x^7 + 11x^6 + 8x^5 + 12x^4 + 14x^3 + 14x^2 -4x^1 + 7
+Sum: 11x^9 + 10x^8 + 7x^7 + 2x^6 + 23x^5 + 19x^4 + 27x^3 + 17x^2 -9x^1 + 9
+Subtraction: 9x^9 + 14x^8 + 9x^7 -20x^6 + 7x^5 -5x^4 -1x^3 -11x^2 -1x^1 -5
+Product: 10x^18 -8x^17 -26x^16 + 73x^15 + 237x^14 + 290x^13 + 233x^12 + 467x^11 + 305x^10 + 396x^9 + 358x^8 + 523x^7 + 1
+75x^6 + 257x^5 -7x^4 + 37x^3 + 69x^2 -43x^1 + 14
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: 9340
+Derivative: 90x^8 + 96x^7 + 56x^6 -54x^5 + 75x^4 + 28x^3 + 39x^2 + 6x^1 -5
+Integral: 1x^10 + 1.33333x^9 + 1x^8 -1.28571x^7 + 2.5x^6 + 1.4x^5 + 3.25x^4 + 1x^3 -2.5x^2 + 2x^1
+Definite integration from x=0 to x=1: 9.69762
+Real roots of Polynomial 1: [-0.707522]
+
+
+
+Polynomial 1: -2x^9 -6x^8 -1x^7 + 5x^6 -13x^5 + 12x^4 + 9x^3 + 6x^2 + 1x^1 + 11
+Polynomial 2: 12x^9 + 9x^8 + 9x^7 -10x^6 + 14x^5 -10x^4 + 2x^3 -8x^2 + 14x^1 + 11
+Sum: 10x^9 + 3x^8 + 8x^7 -5x^6 + 1x^5 + 2x^4 + 11x^3 -2x^2 + 15x^1 + 22
+Subtraction: -14x^9 -15x^8 -10x^7 + 15x^6 -27x^5 + 22x^4 + 7x^3 + 14x^2 -13x^1
+Product: -24x^18 -90x^17 -84x^16 + 17x^15 -88x^14 + 18x^13 + 91x^12 + 475x^11 -187x^10 + 315x^9 -92x^8 + 270x^7 -361x^6
++ 109x^5 + 102x^4 + 197x^3 -8x^2 + 165x^1 + 121
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: -2483
+Derivative: -18x^8 -48x^7 -7x^6 + 30x^5 -65x^4 + 48x^3 + 27x^2 + 12x^1 + 1
+Integral: -0.2x^10 -0.666667x^9 -0.125x^8 + 0.714286x^7 -2.16667x^6 + 2.4x^5 + 2.25x^4 + 2x^3 + 0.5x^2 + 11x^1
+Definite integration from x=0 to x=1: 15.706
+Real roots of Polynomial 1: [1.21993]
+
+
+
+Polynomial 1: -10x^11 -8x^10 -4x^9 -12x^8 -4x^7 + 9x^6 -4x^5 + 9x^4 -7x^3 -11x^2 -10x^1
+Polynomial 2: -12x^11 + 15x^10 -9x^9 + 7x^8 + 9x^7 -10x^6 + 3x^5 -7x^4 -13x^3 -8x^2 -9x^1 + 7
+Sum: -22x^11 + 7x^10 -13x^9 -5x^8 + 5x^7 -1x^6 -1x^5 + 2x^4 -20x^3 -19x^2 -19x^1 + 7
+Subtraction: 2x^11 -23x^10 + 5x^9 -19x^8 -13x^7 + 19x^6 -7x^5 + 16x^4 + 6x^3 -3x^2 -1x^1 -7
+Product: 120x^22 -54x^21 + 18x^20 + 86x^19 -242x^18 -60x^17 + 149x^16 -299x^15 + 576x^14 + 215x^13 + 233x^12 + 266x^11 -
+87x^10 -49x^9 -132x^8 -78x^7 + 165x^6 + 160x^5 + 344x^4 + 130x^3 + 13x^2 -70x^1
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: -33832
+Derivative: -110x^10 -80x^9 -36x^8 -96x^7 -28x^6 + 54x^5 -20x^4 + 36x^3 -21x^2 -22x^1 -10
+Integral: -0.833333x^12 -0.727273x^11 -0.4x^10 -1.33333x^9 -0.5x^8 + 1.28571x^7 -0.666667x^6 + 1.8x^5 -1.75x^4 -3.66667x
+^3 -5x^2
+Definite integration from x=0 to x=1: -11.7916
+Real roots of Polynomial 1: [6.13708e-11]
+
+
+
+Polynomial 1: 15x^10 + 12x^9 + 2x^8 -10x^7 + 13x^6 -2x^5 + 12x^4 + 5x^3 + 15x^2 + 12x^1 -13
+Polynomial 2: -11x^10 -10x^9 -8x^8 + 1x^7 + 14x^6 -3x^5 + 1x^4 -2x^3 -10x^2 -14x^1 -12
+Sum: 4x^10 + 2x^9 -6x^8 -9x^7 + 27x^6 -5x^5 + 13x^4 + 3x^3 + 5x^2 -2x^1 -25
+Subtraction: 26x^10 + 22x^9 + 10x^8 -11x^7 -1x^6 + 1x^5 + 11x^4 + 7x^3 + 25x^2 + 26x^1 -1
+Product: -165x^20 -282x^19 -262x^18 + 9x^17 + 163x^16 + 97x^15 -219x^14 -310x^13 -273x^12 -721x^11 -253x^10 -17x^9 + 313
+x^8 + 49x^7 -461x^6 -173x^5 -401x^4 -364x^3 -218x^2 + 38x^1 + 156
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 21807
+Derivative: 150x^9 + 108x^8 + 16x^7 -70x^6 + 78x^5 -10x^4 + 48x^3 + 15x^2 + 30x^1 + 12
+Integral: 1.36364x^11 + 1.2x^10 + 0.222222x^9 -1.25x^8 + 1.85714x^7 -0.333333x^6 + 2.4x^5 + 1.25x^4 + 5x^3 + 6x^2 -13x^1
+
+Definite integration from x=0 to x=1: 4.70967
+Real roots of Polynomial 1: [-0.844907, 0.543466]
+
+
+
+Polynomial 1: 15x^10 + 8x^9 + 14x^8 + 6x^7 + 14x^6 + 14x^5 -7x^4 + 12x^3 + 6x^2 + 13x^1 + 13
+Polynomial 2: -3x^10 + 11x^9 + 13x^8 -11x^7 + 6x^6 -2x^5 + 13x^4 -10x^3 -2x^2 + 15x^1 -6
+Sum: 12x^10 + 19x^9 + 27x^8 -5x^7 + 20x^6 + 12x^5 + 6x^4 + 2x^3 + 4x^2 + 28x^1 + 7
+Subtraction: 18x^10 -3x^9 + 1x^8 + 17x^7 + 8x^6 + 16x^5 -20x^4 + 22x^3 + 8x^2 -2x^1 + 19
+Product: -45x^20 + 141x^19 + 241x^18 + 75x^17 + 208x^16 + 54x^15 + 554x^14 -123x^13 + 13x^12 + 463x^11 + 104x^10 + 524x^
+9 -215x^8 + 295x^7 + 150x^6 -130x^5 + 249x^4 -138x^3 + 133x^2 + 117x^1 -78
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 25199
+Derivative: 150x^9 + 72x^8 + 112x^7 + 42x^6 + 84x^5 + 70x^4 -28x^3 + 36x^2 + 12x^1 + 13
+Integral: 1.36364x^11 + 0.8x^10 + 1.55556x^9 + 0.75x^8 + 2x^7 + 2.33333x^6 -1.4x^5 + 3x^4 + 2x^3 + 6.5x^2 + 13x^1
+Definite integration from x=0 to x=1: 31.9025
+Real roots of Polynomial 1: [-0.975664, -0.726675]
+
+
+
+Polynomial 1: 1x^3 -11x^2 -4x^1 + 1
+Polynomial 2: 9x^3 -11x^2 -8x^1 -9
+Sum: 10x^3 -22x^2 -12x^1 -8
+Subtraction: -8x^3 + 4x^1 + 10
+Product: 9x^6 -110x^5 + 77x^4 + 132x^3 + 120x^2 + 28x^1 -9
+Degree of Polynomial: 3
+Evaluation of polynomial at x=2: -43
+Derivative: 3x^2 -22x^1 -4
+Integral: 0.25x^4 -3.66667x^3 -2x^2 + 1x^1
+Definite integration from x=0 to x=1: -4.41667
+Real roots of Polynomial 1: [-0.515729, 0.170915]
+
+
+
+Polynomial 1: 9x^1 + 7
+Polynomial 2: 5x^1 + 2
+Sum: 14x^1 + 9
+Subtraction: 4x^1 + 5
+Product: 45x^2 + 53x^1 + 14
+Degree of Polynomial: 1
+Evaluation of polynomial at x=2: 25
+Derivative: 9
+Integral: 4.5x^2 + 7x^1
+Definite integration from x=0 to x=1: 11.5
+Real roots of Polynomial 1: [-0.777778]
+
+
+
+Polynomial 1: 8x^8 + 3x^7 -9x^6 -1x^5 -6x^4 -2x^2 -14x^1 -1
+Polynomial 2: 3x^8 -11x^7 -11x^6 + 13x^5 + 9x^4 + 8x^3 + 8x^2 -2x^1 -11
+Sum: 11x^8 -8x^7 -20x^6 + 12x^5 + 3x^4 + 8x^3 + 6x^2 -16x^1 -12
+Subtraction: 5x^8 + 14x^7 + 2x^6 -14x^5 -15x^4 -8x^3 -10x^2 -12x^1 + 10
+Product: 24x^16 -79x^15 -148x^14 + 167x^13 + 203x^12 + 51x^11 + 54x^10 -171x^9 -55x^8 + 68x^7 -136x^6 -132x^5 -71x^4 -11
+6x^3 + 42x^2 + 156x^1 + 11
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 1691
+Derivative: 64x^7 + 21x^6 -54x^5 -5x^4 -24x^3 -4x^1 -14
+Integral: 0.888889x^9 + 0.375x^8 -1.28571x^7 -0.166667x^6 -1.2x^5 -0.666667x^3 -7x^2 -1x^1
+Definite integration from x=0 to x=1: -10.0552
+Real roots of Polynomial 1: [-1.21829, -1.11205, -0.0721845, 1.31229]
+
+
+
+Polynomial 1: 3x^2 + 1x^1 -13
+Polynomial 2: 11x^2 -2x^1 -14
+Sum: 14x^2 -1x^1 -27
+Subtraction: -8x^2 + 3x^1 + 1
+Product: 33x^4 + 5x^3 -187x^2 + 12x^1 + 182
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 1
+Derivative: 6x^1 + 1
+Integral: 1x^3 + 0.5x^2 -13x^1
+Definite integration from x=0 to x=1: -11.5
+Real roots of Polynomial 1: [-2.25499, 1.92166]
+
+
+
+Polynomial 1: -9x^2 -14
+Polynomial 2: -11x^1 -2
+Sum: -9x^2 -11x^1 -16
+Subtraction: -9x^2 + 11x^1 -12
+Product: + 99x^3 + 18x^2 + 154x^1 + 28
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -50
+Derivative: -18x^1
+Integral: -3x^3 -14x^1
+Definite integration from x=0 to x=1: -17
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 10x^4 + 11x^3 + 8x^2 -13x^1 + 9
+Polynomial 2: 7x^4 + 2x^3 -3x^2 -14x^1 -1
+Sum: 17x^4 + 13x^3 + 5x^2 -27x^1 + 8
+Subtraction: 3x^4 + 9x^3 + 11x^2 + 1x^1 + 10
+Product: 70x^8 + 97x^7 + 48x^6 -248x^5 -151x^4 -66x^3 + 147x^2 -113x^1 -9
+Degree of Polynomial: 4
+Evaluation of polynomial at x=2: 263
+Derivative: 40x^3 + 33x^2 + 16x^1 -13
+Integral: 2x^5 + 2.75x^4 + 2.66667x^3 -6.5x^2 + 9x^1
+Definite integration from x=0 to x=1: 9.91667
+Real roots of Polynomial 1: [3.22143e-09]
+
+
+
+Polynomial 1: -13x^3 -14x^2 -7x^1
+Polynomial 2: 7x^3 + 5x^2 + 10x^1 -6
+Sum: -6x^3 -9x^2 + 3x^1 -6
+Subtraction: -20x^3 -19x^2 -17x^1 + 6
+Product: -91x^6 -163x^5 -249x^4 -97x^3 + 14x^2 + 42x^1
+Degree of Polynomial: 3
+Evaluation of polynomial at x=2: -174
+Derivative: -39x^2 -28x^1 -7
+Integral: -3.25x^4 -4.66667x^3 -3.5x^2
+Definite integration from x=0 to x=1: -11.4167
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 5x^8 + 13x^6 -8x^5 -10x^4 + 8x^3 + 13x^2 -6x^1 + 12
+Polynomial 2: -7x^8 + 6x^7 + 9x^6 -2x^5 + 3x^4 -2x^3 -14x^2 -4
+Sum: -2x^8 + 6x^7 + 22x^6 -10x^5 -7x^4 + 6x^3 -1x^2 -6x^1 + 8
+Subtraction: 12x^8 -6x^7 + 4x^6 -6x^5 -13x^4 + 10x^3 + 27x^2 -6x^1 + 16
+Product: -35x^16 + 30x^15 -46x^14 + 124x^13 + 154x^12 -224x^11 -148x^10 + 162x^9 -235x^8 + 148x^7 + 231x^6 -148x^5 -94x^
+4 + 28x^3 -220x^2 + 24x^1 -48
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 1812
+Derivative: 40x^7 + 78x^5 -40x^4 -40x^3 + 24x^2 + 26x^1 -6
+Integral: 0.555556x^9 + 1.85714x^7 -1.33333x^6 -2x^5 + 2x^4 + 4.33333x^3 -3x^2 + 12x^1
+Definite integration from x=0 to x=1: 14.4127
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: -14x^11 + 3x^9 -8x^8 + 12x^7 + 2x^6 + 11x^5 + 8x^4 -10x^3 + 1x^2 -11x^1 + 10
+Polynomial 2: -14x^11 -5x^10 + 8x^9 + 9x^8 + 14x^7 -14x^6 -11x^5 + 4x^4 -4x^3 + 8x^2 -9x^1 + 2
+Sum: -28x^11 -5x^10 + 11x^9 + 1x^8 + 26x^7 -12x^6 + 12x^4 -14x^3 + 9x^2 -20x^1 + 12
+Subtraction: + 5x^10 -5x^9 -17x^8 -2x^7 + 16x^6 + 22x^5 + 4x^4 -6x^3 -7x^2 -2x^1 + 8
+Product: 196x^22 + 70x^21 -154x^20 -29x^19 -300x^18 + 71x^17 + 56x^16 -253x^15 + 509x^14 + 47x^13 + 217x^12 -155x^11 -63
+3x^10 + 257x^9 -88x^8 + 305x^7 -6x^6 -288x^5 + 198x^4 -157x^3 + 181x^2 -112x^1 + 20
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: -27128
+Derivative: -154x^10 + 27x^8 -64x^7 + 84x^6 + 12x^5 + 55x^4 + 32x^3 -30x^2 + 2x^1 -11
+Integral: -1.16667x^12 + 0.3x^10 -0.888889x^9 + 1.5x^8 + 0.285714x^7 + 1.83333x^6 + 1.6x^5 -2.5x^4 + 0.333333x^3 -5.5x^2
+ + 10x^1
+Definite integration from x=0 to x=1: 5.79683
+Real roots of Polynomial 1: [1.05173]
+
+
+
+Polynomial 1: -10x^9 -3x^8 -5x^7 -12x^6 + 14x^5 -5x^4 + 14x^3 + 14x^2 -4x^1 -12
+Polynomial 2: 13x^9 -4x^8 + 11x^7 + 3x^6 -3x^5 + 2x^4 -2x^3 -3x^2 + 4x^1 -10
+Sum: 3x^9 -7x^8 + 6x^7 -9x^6 + 11x^5 -3x^4 + 12x^3 + 11x^2 -22
+Subtraction: -23x^9 + 1x^8 -16x^7 -15x^6 + 17x^5 -7x^4 + 16x^3 + 17x^2 -8x^1 -2
+Product: -130x^18 + 1x^17 -163x^16 -199x^15 + 196x^14 -279x^13 + 349x^12 + 175x^11 -56x^10 + 226x^9 + 12x^8 -188x^7 + 16
+7x^6 -202x^5 + 48x^4 -48x^3 -120x^2 -8x^1 + 120
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: -6780
+Derivative: -90x^8 -24x^7 -35x^6 -72x^5 + 70x^4 -20x^3 + 42x^2 + 28x^1 -4
+Integral: -1x^10 -0.333333x^9 -0.625x^8 -1.71429x^7 + 2.33333x^6 -1x^5 + 3.5x^4 + 4.66667x^3 -2x^2 -12x^1
+Definite integration from x=0 to x=1: -8.17262
+Real roots of Polynomial 1: [-1.37583]
+
+
+Polynomial 1: 5x^2 -9x^1 + 15
+Polynomial 2: 14x^2 -4x^1 -10
+Sum: 19x^2 -13x^1 + 5
+Subtraction: -9x^2 -5x^1 + 25
+Product: 70x^4 -146x^3 + 196x^2 + 30x^1 -150
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 17
+Derivative: 10x^1 -9
+Integral: 1.66667x^3 -4.5x^2 + 15x^1
+Definite integration from x=0 to x=1: 12.1667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 8x^10 -5x^9 + 8x^8 -12x^7 -1x^6 + 13x^5 -10x^4 -4x^3 + 1x^2 + 7x^1 -10
+Polynomial 2: -9x^10 + 5x^9 + 5x^8 -4x^7 + 10x^6 -3x^5 -10x^4 + 3x^3 + 15x^2 + 5x^1 -11
+Sum: -1x^10 + 13x^8 -16x^7 + 9x^6 + 10x^5 -20x^4 -1x^3 + 16x^2 + 12x^1 -21
+Subtraction: 17x^10 -10x^9 + 3x^8 -8x^7 -11x^6 + 16x^5 -7x^3 -14x^2 + 2x^1 + 1
+Product: -72x^20 + 85x^19 -57x^18 + 91x^17 + 89x^16 -288x^15 + 213x^14 -15x^13 -80x^12 + 204x^11 -12x^10 -247x^9 -80x^8
++ 439x^7 -217x^6 -290x^5 + 226x^4 + 124x^3 -126x^2 -127x^1 + 110
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 6312
+Derivative: 80x^9 -45x^8 + 64x^7 -84x^6 -6x^5 + 65x^4 -40x^3 -12x^2 + 2x^1 + 7
+Integral: 0.727273x^11 -0.5x^10 + 0.888889x^9 -1.5x^8 -0.142857x^7 + 2.16667x^6 -2x^5 -1x^4 + 0.333333x^3 + 3.5x^2 -10x^
+1
+Definite integration from x=0 to x=1: -7.5267
+Real roots of Polynomial 1: [-1.01639, 1.0908]
+
+
+
+Polynomial 1: 12x^7 -4x^6 -3x^5 + 2x^4 + 13x^3 + 11x^2 + 12x^1 + 12
+Polynomial 2: 2x^7 -7x^5 + 10x^4 + 9x^3 + 4x^2 + 5x^1 + 7
+Sum: 14x^7 -4x^6 -10x^5 + 12x^4 + 22x^3 + 15x^2 + 17x^1 + 19
+Subtraction: 10x^7 -4x^6 + 4x^5 -8x^4 + 4x^3 + 7x^2 + 7x^1 + 5
+Product: 24x^14 -8x^13 -90x^12 + 152x^11 + 115x^10 -10x^9 -30x^8 + 147x^7 + 108x^6 + 176x^5 + 351x^4 + 302x^3 + 185x^2 +
+ 144x^1 + 84
+Degree of Polynomial: 7
+Evaluation of polynomial at x=2: 1400
+Derivative: 84x^6 -24x^5 -15x^4 + 8x^3 + 39x^2 + 22x^1 + 12
+Integral: 1.5x^8 -0.571429x^7 -0.5x^6 + 0.4x^5 + 3.25x^4 + 3.66667x^3 + 6x^2 + 12x^1
+Definite integration from x=0 to x=1: 25.7452
+Real roots of Polynomial 1: [-0.824496]
+
+
+
+Polynomial 1: 12x^11 -2x^10 -3x^9 -8x^8 + 9x^7 -10x^6 + 3x^5 + 3x^4 -3x^3 -8x^2 -13x^1 + 8
+Polynomial 2: 1x^11 -2x^10 -14x^9 -1x^8 -3x^7 -1x^6 + 7x^5 + 8x^4 + 12x^3 -10x^1 + 13
+Sum: 13x^11 -4x^10 -17x^9 -9x^8 + 6x^7 -11x^6 + 10x^5 + 11x^4 + 9x^3 -8x^2 -23x^1 + 21
+Subtraction: 11x^11 + 11x^9 -7x^8 + 12x^7 -9x^6 -4x^5 -5x^4 -15x^3 -8x^2 -3x^1 -5
+Product: 12x^22 -26x^21 -167x^20 + 14x^19 + 33x^18 + 81x^17 + 237x^15 + 47x^14 -130x^13 -114x^12 + 219x^11 + 233x^10 -10
+6x^9 -116x^8 + 162x^7 -359x^6 -135x^5 -23x^4 + 137x^3 + 26x^2 -249x^1 + 104
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 19526
+Derivative: 132x^10 -20x^9 -27x^8 -64x^7 + 63x^6 -60x^5 + 15x^4 + 12x^3 -9x^2 -16x^1 -13
+Integral: 1x^12 -0.181818x^11 -0.3x^10 -0.888889x^9 + 1.125x^8 -1.42857x^7 + 0.5x^6 + 0.6x^5 -0.75x^4 -2.66667x^3 -6.5x^
+2 + 8x^1
+Definite integration from x=0 to x=1: -1.49095
+Real roots of Polynomial 1: [-0.894314, 0.467393, 1.1377]
+
+
+
+Polynomial 1: -8x^11 -8x^9 -13x^8 -11x^7 -2x^6 -9x^5 -10x^4 -14x^3 -5x^2 + 6
+Polynomial 2: 6x^11 -5x^10 -3x^9 + 4x^8 + 12x^7 -1x^6 -12x^5 -12x^4 + 4x^3 -1x^2 + 10x^1 -5
+Sum: -2x^11 -5x^10 -11x^9 -9x^8 + 1x^7 -3x^6 -21x^5 -22x^4 -10x^3 -6x^2 + 10x^1 + 1
+Subtraction: -14x^11 + 5x^10 -5x^9 -17x^8 -23x^7 -1x^6 + 3x^5 + 2x^4 -18x^3 -4x^2 -10x^1 + 11
+Product: -48x^22 + 40x^21 -24x^20 -70x^19 -73x^18 + 58x^17 -63x^16 -105x^15 -70x^14 + 281x^13 + 97x^12 + 36x^11 -187x^10
+ + 77x^9 + 238x^8 + 304x^7 -72x^6 -133x^5 -157x^4 + 44x^3 + 19x^2 + 60x^1 -30
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: -25918
+Derivative: -88x^10 -72x^8 -104x^7 -77x^6 -12x^5 -45x^4 -40x^3 -42x^2 -10x^1
+Integral: -0.666667x^12 -0.8x^10 -1.44444x^9 -1.375x^8 -0.285714x^7 -1.5x^6 -2x^5 -3.5x^4 -1.66667x^3 + 6x^1
+Definite integration from x=0 to x=1: -7.23849
+Real roots of Polynomial 1: [0.561657]
+
+
+
+Polynomial 1: 12x^8 -7x^7 + 1x^6 + 3x^5 + 8x^4 + 7x^3 -1x^2 -3x^1 -1
+Polynomial 2: 13x^8 + 1x^7 -9x^6 -6x^5 + 1x^4 + 11x^3 + 12x^2 -5x^1 + 10
+Sum: 25x^8 -6x^7 -8x^6 -3x^5 + 9x^4 + 18x^3 + 11x^2 -8x^1 + 9
+Subtraction: -1x^8 -8x^7 + 10x^6 + 9x^5 + 7x^4 -4x^3 -13x^2 + 2x^1 -11
+Product: 156x^16 -79x^15 -102x^14 + 31x^13 + 152x^12 + 191x^11 -28x^10 -281x^9 + 159x^8 + 88x^7 + 194x^6 + 66x^5 -1x^4 +
+ 28x^3 -7x^2 -25x^1 -10
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 2509
+Derivative: 96x^7 -49x^6 + 6x^5 + 15x^4 + 32x^3 + 21x^2 -2x^1 -3
+Integral: 1.33333x^9 -0.875x^8 + 0.142857x^7 + 0.5x^6 + 1.6x^5 + 1.75x^4 -0.333333x^3 -1.5x^2 -1x^1
+Definite integration from x=0 to x=1: 1.61786
+Real roots of Polynomial 1: [-0.550506, 0.623131]
+
+
+
+Polynomial 1: 14x^5 + 15x^4 + 1x^3 -5x^2 + 7x^1 -14
+Polynomial 2: -2x^5 -8x^4 + 15x^2 + 7x^1 + 5
+Sum: 12x^5 + 7x^4 + 1x^3 + 10x^2 + 14x^1 -9
+Subtraction: 16x^5 + 23x^4 + 1x^3 -20x^2 -19
+Product: -28x^10 -142x^9 -122x^8 + 212x^7 + 349x^6 + 162x^5 + 119x^4 + 75x^3 -186x^2 -63x^1 -70
+Degree of Polynomial: 5
+Evaluation of polynomial at x=2: 676
+Derivative: 70x^4 + 60x^3 + 3x^2 -10x^1 + 7
+Integral: 2.33333x^6 + 3x^5 + 0.25x^4 -1.66667x^3 + 3.5x^2 -14x^1
+Definite integration from x=0 to x=1: -6.58333
+Real roots of Polynomial 1: [0.805839]
+
+
+
+Polynomial 1: -11
+Polynomial 2: 12
+Sum: 1
+Subtraction: -23
+Product: -132
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: -11
+Derivative:
+Integral: -11x^1
+Definite integration from x=0 to x=1: -11
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 6x^11 -7x^10 -8x^9 -9x^8 + 10x^7 + 14x^6 + 2x^5 + 10x^4 -6x^3 + 11x^2 + 9x^1 -13
+Polynomial 2: -7x^11 + 1x^10 + 10x^9 -13x^7 -8x^5 + 5x^4 + 2x^3 -8x^2 + 4x^1 -1
+Sum: -1x^11 -6x^10 + 2x^9 -9x^8 -3x^7 + 14x^6 -6x^5 + 15x^4 -4x^3 + 3x^2 + 13x^1 -14
+Subtraction: 13x^11 -8x^10 -18x^9 -9x^8 + 23x^7 + 14x^6 + 10x^5 + 5x^4 -8x^3 + 19x^2 + 5x^1 -12
+Product: -42x^22 + 55x^21 + 109x^20 -15x^19 -237x^18 -87x^17 + 156x^16 + 275x^15 -17x^14 -195x^13 -199x^12 + 30x^11 + 27
+6x^10 -423x^9 -78x^8 + 101x^7 -115x^6 + 257x^5 -169x^4 -48x^3 + 129x^2 -61x^1 + 13
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 1121
+Derivative: 66x^10 -70x^9 -72x^8 -72x^7 + 70x^6 + 84x^5 + 10x^4 + 40x^3 -18x^2 + 22x^1 + 9
+Integral: 0.5x^12 -0.636364x^11 -0.8x^10 -1x^9 + 1.25x^8 + 2x^7 + 0.333333x^6 + 2x^5 -1.5x^4 + 3.66667x^3 + 4.5x^2 -13x^
+1
+Definite integration from x=0 to x=1: -2.68636
+Real roots of Polynomial 1: [0.677941, 1.42876, 1.7915]
+
+
+
+Polynomial 1: 12x^8 -13x^7 -7x^6 -12x^5 + 14x^4 -3x^3 -13x^2 -12x^1 + 11
+Polynomial 2: 12x^8 -6x^7 + 8x^6 -7x^5 + 8x^4 -14x^3 -12x^2 -11
+Sum: 24x^8 -19x^7 + 1x^6 -19x^5 + 22x^4 -17x^3 -25x^2 -12x^1
+Subtraction: -7x^7 -15x^6 -5x^5 + 6x^4 + 11x^3 -1x^2 -12x^1 + 22
+Product: 144x^16 -228x^15 + 90x^14 -290x^13 + 371x^12 -439x^11 + 40x^10 -30x^9 + 353x^8 -4x^7 + 19x^6 + 177x^5 + 258x^4
++ 23x^3 + 11x^2 + 132x^1 -121
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 711
+Derivative: 96x^7 -91x^6 -42x^5 -60x^4 + 56x^3 -9x^2 -26x^1 -12
+Integral: 1.33333x^9 -1.625x^8 -1x^7 -2x^6 + 2.8x^5 -0.75x^4 -4.33333x^3 -6x^2 + 11x^1
+Definite integration from x=0 to x=1: -0.575
+Real roots of Polynomial 1: [0.562345, 1.67448]
+
+
+
+Polynomial 1: 15x^8 -8x^7 + 14x^6 -14x^5 + 12x^4 -6x^3 + 6x^2 -10x^1 + 11
+Polynomial 2: 5x^8 -8x^7 -9x^6 + 1x^5 + 13x^4 -2x^3 -12x^2 + 14x^1 + 5
+Sum: 20x^8 -16x^7 + 5x^6 -13x^5 + 25x^4 -8x^3 -6x^2 + 4x^1 + 16
+Subtraction: 10x^8 + 23x^6 -15x^5 -1x^4 -4x^3 + 18x^2 -24x^1 + 6
+Product: 75x^16 -160x^15 -1x^14 -95x^13 + 233x^12 -120x^11 -26x^10 + 64x^9 + 54x^8 + 230x^7 -289x^6 + 39x^5 + 67x^4 + 15
+2x^3 -242x^2 + 104x^1 + 55
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 3423
+Derivative: 120x^7 -56x^6 + 84x^5 -70x^4 + 48x^3 -18x^2 + 12x^1 -10
+Integral: 1.66667x^9 -1x^8 + 2x^7 -2.33333x^6 + 2.4x^5 -1.5x^4 + 2x^3 -5x^2 + 11x^1
+Definite integration from x=0 to x=1: 9.23333
+Real roots of Polynomial 1: []
+
+
+Polynomial 1: 15x^10 + 1x^9 + 5x^8 -14x^7 -12x^6 + 4x^5 -11x^4 -13x^3 -6x^2 -8x^1 -1
+Polynomial 2: 14x^10 -7x^9 + 9x^8 + 2x^7 + 11x^6 + 3x^5 + 3x^4 -14x^3 + 12x^2 -6x^1 -3
+Sum: 29x^10 -6x^9 + 14x^8 -12x^7 -1x^6 + 7x^5 -8x^4 -27x^3 + 6x^2 -14x^1 -4
+Subtraction: 1x^10 + 8x^9 -4x^8 -16x^7 -23x^6 + 1x^5 -14x^4 + 1x^3 -18x^2 -2x^1 + 2
+Product: 210x^20 -91x^19 + 198x^18 -192x^17 + 142x^16 + 80x^15 -215x^14 -439x^13 -77x^12 -391x^11 + 22x^10 -274x^9 -294x
+^8 + 169x^7 + 9x^6 -45x^5 + 148x^4 -7x^3 + 54x^2 + 30x^1 + 3
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: 14399
+Derivative: 150x^9 + 9x^8 + 40x^7 -98x^6 -72x^5 + 20x^4 -44x^3 -39x^2 -12x^1 -8
+Integral: 1.36364x^11 + 0.1x^10 + 0.555556x^9 -1.75x^8 -1.71429x^7 + 0.666667x^6 -2.2x^5 -3.25x^4 -2x^3 -4x^2 -1x^1
+Definite integration from x=0 to x=1: -13.2284
+Real roots of Polynomial 1: [-0.135181, 1.24361]
+
+
+
+Polynomial 1: -8x^5 + 4x^4 + 10x^3 + 4x^1 + 10
+Polynomial 2: -14x^5 + 11x^4 + 1x^3 + 8x^2 + 15x^1 + 12
+Sum: -22x^5 + 15x^4 + 11x^3 + 8x^2 + 19x^1 + 22
+Subtraction: 6x^5 -7x^4 + 9x^3 -8x^2 -11x^1 -2
+Product: 112x^10 -144x^9 -104x^8 + 50x^7 -134x^6 -52x^5 + 312x^4 + 162x^3 + 140x^2 + 198x^1 + 120
+Degree of Polynomial: 5
+Evaluation of polynomial at x=2: -94
+Derivative: -40x^4 + 16x^3 + 30x^2 + 4
+Integral: -1.33333x^6 + 0.8x^5 + 2.5x^4 + 2x^2 + 10x^1
+Definite integration from x=0 to x=1: 13.9667
+Real roots of Polynomial 1: [1.59729]
+
+
+
+Polynomial 1: 11
+Polynomial 2: 8
+Sum: 19
+Subtraction: 3
+Product: 88
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: 11
+Derivative:
+Integral: 11x^1
+Definite integration from x=0 to x=1: 11
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: -6x^7 -1x^6 + 8x^5 -10x^4 + 8x^3 -12x^2 + 2x^1 + 4
+Polynomial 2: 2x^7 -2x^5 + 14x^4 + 15x^3 -9x^2 + 4x^1 + 6
+Sum: -4x^7 -1x^6 + 6x^5 + 4x^4 + 23x^3 -21x^2 + 6x^1 + 10
+Subtraction: -8x^7 -1x^6 + 10x^5 -24x^4 -7x^3 -3x^2 -2x^1 -2
+Product: -12x^14 -2x^13 + 28x^12 -102x^11 -104x^10 + 147x^9 -47x^8 -118x^7 + 64x^6 -224x^5 + 166x^4 + 42x^3 -100x^2 + 28
+x^1 + 24
+Degree of Polynomial: 7
+Evaluation of polynomial at x=2: -712
+Derivative: -42x^6 -6x^5 + 40x^4 -40x^3 + 24x^2 -24x^1 + 2
+Integral: -0.75x^8 -0.142857x^7 + 1.33333x^6 -2x^5 + 2x^4 -4x^3 + 1x^2 + 4x^1
+Definite integration from x=0 to x=1: 1.44048
+Real roots of Polynomial 1: [-1.81419, -0.422109, 0.742239]
+
+
+
+Polynomial 1: 11x^11 -4x^10 -6x^9 -8x^8 + 4x^7 + 1x^6 -1x^5 -1x^4 -14x^3 -14x^2 + 9x^1 + 6
+Polynomial 2: 3x^11 + 13x^10 + 10x^9 + 6x^8 + 3x^7 -8x^6 -13x^5 + 2x^4 + 1x^3 + 1x^2 + 5x^1 -10
+Sum: 14x^11 + 9x^10 + 4x^9 -2x^8 + 7x^7 -7x^6 -14x^5 + 1x^4 -13x^3 -13x^2 + 14x^1 -4
+Subtraction: 8x^11 -17x^10 -16x^9 -14x^8 + 1x^7 + 9x^6 + 12x^5 -3x^4 -15x^3 -15x^2 + 4x^1 + 16
+Product: 33x^22 + 131x^21 + 40x^20 -76x^19 -143x^18 -161x^17 -127x^16 + 116x^15 + 98x^14 -170x^13 -335x^12 -233x^11 + 71
+x^10 + 220x^9 + 455x^8 + 63x^7 -223x^6 -83x^5 -53x^4 + 85x^3 + 191x^2 -60x^1 -60
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 13696
+Derivative: 121x^10 -40x^9 -54x^8 -64x^7 + 28x^6 + 6x^5 -5x^4 -4x^3 -42x^2 -28x^1 + 9
+Integral: 0.916667x^12 -0.363636x^11 -0.6x^10 -0.888889x^9 + 0.5x^8 + 0.142857x^7 -0.166667x^6 -0.2x^5 -3.5x^4 -4.66667x
+^3 + 4.5x^2 + 6x^1
+Definite integration from x=0 to x=1: 1.67367
+Real roots of Polynomial 1: [-0.475804, 0.70216, 1.30057]
+
+
+
+Polynomial 1: 7
+Polynomial 2: -6
+Sum: 1
+Subtraction: 13
+Product: -42
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: 7
+Derivative:
+Integral: 7x^1
+Definite integration from x=0 to x=1: 7
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: -2x^4 -13x^3 -2x^2 -8x^1 + 11
+Polynomial 2: -6x^4 + 2x^3 + 5x^2 + 1x^1 -6
+Sum: -8x^4 -11x^3 + 3x^2 -7x^1 + 5
+Subtraction: 4x^4 -15x^3 -7x^2 -9x^1 + 17
+Product: 12x^8 + 74x^7 -24x^6 -23x^5 -93x^4 + 58x^3 + 59x^2 + 59x^1 -66
+Degree of Polynomial: 4
+Evaluation of polynomial at x=2: -149
+Derivative: -8x^3 -39x^2 -4x^1 -8
+Integral: -0.4x^5 -3.25x^4 -0.666667x^3 -4x^2 + 11x^1
+Definite integration from x=0 to x=1: 2.68333
+Real roots of Polynomial 1: [-6.46143, 0.68382]
+
+
+
+Polynomial 1: 11x^2 -3x^1 + 8
+Polynomial 2: -8x^2 -3x^1 + 10
+Sum: 3x^2 -6x^1 + 18
+Subtraction: 19x^2 -2
+Product: -88x^4 -9x^3 + 55x^2 -54x^1 + 80
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 46
+Derivative: 22x^1 -3
+Integral: 3.66667x^3 -1.5x^2 + 8x^1
+Definite integration from x=0 to x=1: 10.1667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 12x^1 -14
+Polynomial 2: 8x^1 + 12
+Sum: 20x^1 -2
+Subtraction: 4x^1 -26
+Product: 96x^2 + 32x^1 -168
+Degree of Polynomial: 1
+Evaluation of polynomial at x=2: 10
+Derivative: 12
+Integral: 6x^2 -14x^1
+Definite integration from x=0 to x=1: -8
+Real roots of Polynomial 1: [1.16667]
+
+
+
+Polynomial 1: 10x^3 -1x^2 + 1x^1
+Polynomial 2: 15x^3 + 9x^2 -8x^1
+Sum: 25x^3 + 8x^2 -7x^1
+Subtraction: -5x^3 -10x^2 + 9x^1
+Product: 150x^6 + 75x^5 -74x^4 + 17x^3 -8x^2
+Degree of Polynomial: 3
+Evaluation of polynomial at x=2: 78
+Derivative: 30x^2 -2x^1 + 1
+Integral: 2.5x^4 -0.333333x^3 + 0.5x^2
+Definite integration from x=0 to x=1: 2.66667
+Real roots of Polynomial 1: [-9.64506e-16]
+
+
+
+Polynomial 1: 9x^2 + 6x^1 -6
+Polynomial 2: -7x^2 + 8x^1 + 7
+Sum: 2x^2 + 14x^1 + 1
+Subtraction: 16x^2 -2x^1 -13
+Product: -63x^4 + 30x^3 + 153x^2 -6x^1 -42
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 42
+Derivative: 18x^1 + 6
+Integral: 3x^3 + 3x^2 -6x^1
+Definite integration from x=0 to x=1: 0
+Real roots of Polynomial 1: [-1.21525, 0.548584]
+
+
+Polynomial 1: 14x^7 -1x^6 + 14x^5 -9x^4 -12x^3 -11x^2 + 15x^1 -11
+Polynomial 2: -11x^7 + 13x^6 + 2x^5 + 13x^4 + 6x^3 -11x^2 + 9x^1 -13
+Sum: 3x^7 + 12x^6 + 16x^5 + 4x^4 -6x^3 -22x^2 + 24x^1 -24
+Subtraction: 25x^7 -14x^6 + 12x^5 -22x^4 -18x^3 + 6x^1 + 2
+Product: -154x^14 + 193x^13 -139x^12 + 461x^11 + 114x^10 -31x^9 -228x^8 -261x^7 -90x^6 -24x^5 + 77x^4 -174x^3 + 399x^2 -
+294x^1 + 143
+Degree of Polynomial: 7
+Evaluation of polynomial at x=2: 1911
+Derivative: 98x^6 -6x^5 + 70x^4 -36x^3 -36x^2 -22x^1 + 15
+Integral: 1.75x^8 -0.142857x^7 + 2.33333x^6 -1.8x^5 -3x^4 -3.66667x^3 + 7.5x^2 -11x^1
+Definite integration from x=0 to x=1: -8.02619
+Real roots of Polynomial 1: [1.01153]
+
+
+
+Polynomial 1: -5x^8 -3x^7 -13x^6 + 4x^5 -11x^4 -2x^3 -14x^2 -10x^1 + 11
+Polynomial 2: -5x^8 + 5x^7 + 12x^6 + 11x^5 + 6x^4 -7x^3 -8x^2 -2x^1 -3
+Sum: -10x^8 + 2x^7 -1x^6 + 15x^5 -5x^4 -9x^3 -22x^2 -12x^1 + 8
+Subtraction: -8x^7 -25x^6 -7x^5 -17x^4 + 5x^3 -6x^2 -8x^1 + 14
+Product: 25x^16 -10x^15 -10x^14 -176x^13 -144x^12 -123x^11 -45x^10 -16x^9 -264x^8 -151x^7 + 71x^6 + 185x^5 + 285x^4 + 37
+x^3 -26x^2 + 8x^1 -33
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: -2625
+Derivative: -40x^7 -21x^6 -78x^5 + 20x^4 -44x^3 -6x^2 -28x^1 -10
+Integral: -0.555556x^9 -0.375x^8 -1.85714x^7 + 0.666667x^6 -2.2x^5 -0.5x^4 -4.66667x^3 -5x^2 + 11x^1
+Definite integration from x=0 to x=1: -3.4877
+Real roots of Polynomial 1: [-0.822745, 0.541422]
+
+
+
+Polynomial 1: 15x^6 -8x^5 + 2x^4 + 3x^2 -1x^1 -11
+Polynomial 2: 9x^6 + 6x^5 -8x^4 + 1x^3 + 6x^2 -12x^1 -7
+Sum: 24x^6 -2x^5 -6x^4 + 1x^3 + 9x^2 -13x^1 -18
+Subtraction: 6x^6 -14x^5 + 10x^4 -1x^3 -3x^2 + 11x^1 -4
+Product: 135x^12 + 18x^11 -150x^10 + 91x^9 + 93x^8 -217x^7 -126x^6 -23x^5 + 91x^4 -53x^3 -75x^2 + 139x^1 + 77
+Degree of Polynomial: 6
+Evaluation of polynomial at x=2: 735
+Derivative: 90x^5 -40x^4 + 8x^3 + 6x^1 -1
+Integral: 2.14286x^7 -1.33333x^6 + 0.4x^5 + 1x^3 -0.5x^2 -11x^1
+Definite integration from x=0 to x=1: -9.29048
+Real roots of Polynomial 1: [-0.815623, 1]
+
+
+
+Polynomial 1: -1x^2 -14x^1 + 14
+Polynomial 2: 12x^2 + 1
+Sum: 11x^2 -14x^1 + 15
+Subtraction: -13x^2 -14x^1 + 13
+Product: -12x^4 -168x^3 + 167x^2 -14x^1 + 14
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -18
+Derivative: -2x^1 -14
+Integral: -0.333333x^3 -7x^2 + 14x^1
+Definite integration from x=0 to x=1: 6.66667
+Real roots of Polynomial 1: [0.937254]
+
+
+
+Polynomial 1: 10x^2 + 1x^1 + 5
+Polynomial 2: -14x^2 -8x^1 -6
+Sum: -4x^2 -7x^1 -1
+Subtraction: 24x^2 + 9x^1 + 11
+Product: -140x^4 -94x^3 -138x^2 -46x^1 -30
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 47
+Derivative: 20x^1 + 1
+Integral: 3.33333x^3 + 0.5x^2 + 5x^1
+Definite integration from x=0 to x=1: 8.83333
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: -6x^8 + 4x^7 + 8x^6 -3x^5 + 14x^4 -11x^3 + 15x^2 -1x^1 + 10
+Polynomial 2: -10x^8 -10x^7 + 4x^6 + 9x^5 -10x^4 -14x^3 + 5x^2 -8x^1 -10
+Sum: -16x^8 -6x^7 + 12x^6 + 6x^5 + 4x^4 -25x^3 + 20x^2 -9x^1
+Subtraction: 4x^8 + 14x^7 + 4x^6 -12x^5 + 24x^4 + 3x^3 + 10x^2 + 7x^1 + 20
+Product: 60x^16 + 20x^15 -144x^14 -88x^13 + 18x^12 + 74x^11 -177x^10 -72x^9 -159x^8 -174x^7 + 49x^6 -247x^5 -63x^4 -155x
+^3 -92x^2 -70x^1 -100
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: -404
+Derivative: -48x^7 + 28x^6 + 48x^5 -15x^4 + 56x^3 -33x^2 + 30x^1 -1
+Integral: -0.666667x^9 + 0.5x^8 + 1.14286x^7 -0.5x^6 + 2.8x^5 -2.75x^4 + 5x^3 -0.5x^2 + 10x^1
+Definite integration from x=0 to x=1: 15.0262
+Real roots of Polynomial 1: [-1.58328, 1.71954]
+
+
+
+Polynomial 1: 10x^6 + 7x^5 -12x^4 + 3x^3 -6x^2 + 9x^1 -14
+Polynomial 2: 12x^6 -1x^5 -14x^4 -2x^3 + 14x^2 -13x^1 -3
+Sum: 22x^6 + 6x^5 -26x^4 + 1x^3 + 8x^2 -4x^1 -17
+Subtraction: -2x^6 + 8x^5 + 2x^4 + 5x^3 -20x^2 + 22x^1 -11
+Product: 120x^12 + 74x^11 -291x^10 -70x^9 + 219x^8 + 64x^7 -388x^6 + 77x^5 + 91x^4 + 223x^3 -295x^2 + 155x^1 + 42
+Degree of Polynomial: 6
+Evaluation of polynomial at x=2: 676
+Derivative: 60x^5 + 35x^4 -48x^3 + 9x^2 -12x^1 + 9
+Integral: 1.42857x^7 + 1.16667x^6 -2.4x^5 + 0.75x^4 -2x^3 + 4.5x^2 -14x^1
+Definite integration from x=0 to x=1: -10.5548
+Real roots of Polynomial 1: [-1.76255, 1.04919]
+
+
+
+Polynomial 1: -13x^8 + 3x^7 + 4x^6 -14x^5 + 15x^4 -11x^3 -1x^2 -3x^1 + 6
+Polynomial 2: 3x^8 -13x^7 + 5x^6 + 5x^5 + 2x^4 -4x^3 + 11x^2 + 12x^1 -7
+Sum: -10x^8 -10x^7 + 9x^6 -9x^5 + 17x^4 -15x^3 + 10x^2 + 9x^1 -1
+Subtraction: -16x^8 + 16x^7 -1x^6 -19x^5 + 13x^4 -7x^3 -12x^2 -15x^1 + 13
+Product: -39x^16 + 178x^15 -92x^14 -144x^13 + 236x^12 -220x^11 -2x^10 -143x^9 + 254x^8 -307x^7 + 26x^6 + 185x^5 -224x^4
++ 8x^3 + 37x^2 + 93x^1 -42
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: -2988
+Derivative: -104x^7 + 21x^6 + 24x^5 -70x^4 + 60x^3 -33x^2 -2x^1 -3
+Integral: -1.44444x^9 + 0.375x^8 + 0.571429x^7 -2.33333x^6 + 3x^5 -2.75x^4 -0.333333x^3 -1.5x^2 + 6x^1
+Definite integration from x=0 to x=1: 1.58532
+Real roots of Polynomial 1: [-1.35936, 0.740809]
+
+
+
+Polynomial 1: -11x^2 + 4x^1 -1
+Polynomial 2: -13
+Sum: -11x^2 + 4x^1 -14
+Subtraction: -11x^2 + 4x^1 + 12
+Product: + 143x^2 -52x^1 + 13
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: -37
+Derivative: -22x^1 + 4
+Integral: -3.66667x^3 + 2x^2 -1x^1
+Definite integration from x=0 to x=1: -2.66667
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: 12x^9 + 2x^8 -13x^7 -1x^6 -7x^5 + 3x^4 -10x^3 + 8x^1 + 13
+Polynomial 2: + 12x^8 -6x^7 + 14x^6 -5x^5 -9x^4 -11x^3 + 2x^2 -7x^1 -2
+Sum: 12x^9 + 14x^8 -19x^7 + 13x^6 -12x^5 -6x^4 -21x^3 + 2x^2 + 1x^1 + 11
+Subtraction: 12x^9 -10x^8 -7x^7 -15x^6 -2x^5 + 12x^4 + 1x^3 -2x^2 + 15x^1 + 15
+Product: + 144x^17 -48x^16 + 34x^14 -378x^13 -21x^12 -112x^11 + 209x^10 -49x^9 + 293x^8 + 110x^7 + 309x^6 -164x^5 -141x^
+4 -107x^3 -30x^2 -107x^1 -26
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: 4701
+Derivative: 108x^8 + 16x^7 -91x^6 -6x^5 -35x^4 + 12x^3 -30x^2 + 8
+Integral: 1.2x^10 + 0.222222x^9 -1.625x^8 -0.142857x^7 -1.16667x^6 + 0.6x^5 -2.5x^4 + 4x^2 + 13x^1
+Definite integration from x=0 to x=1: 13.5877
+Real roots of Polynomial 1: [-1.37923]
+
+
+
+Polynomial 1: 11x^5 -10x^4 -7x^3 -11x^2 -13
+Polynomial 2: -14x^5 -2x^4 -2x^3 -6x^2 -6x^1 + 4
+Sum: -3x^5 -12x^4 -9x^3 -17x^2 -6x^1 -9
+Subtraction: 25x^5 -8x^4 -5x^3 -5x^2 + 6x^1 -17
+Product: -154x^10 + 118x^9 + 96x^8 + 122x^7 + 30x^6 + 350x^5 + 94x^4 + 64x^3 + 34x^2 + 78x^1 -52
+Degree of Polynomial: 5
+Evaluation of polynomial at x=2: 79
+Derivative: 55x^4 -40x^3 -21x^2 -22x^1
+Integral: 1.83333x^6 -2x^5 -1.75x^4 -3.66667x^3 -13x^1
+Definite integration from x=0 to x=1: -18.5833
+Real roots of Polynomial 1: [1.73685]
+
+
+
+Polynomial 1: -10x^11 -12x^10 -4x^9 -11x^8 -2x^7 -13x^6 + 6x^5 -2x^4 + 10x^3 + 2x^2 -5x^1 + 11
+Polynomial 2: 8x^11 + 6x^10 -9x^8 + 2x^7 -4x^6 + 13x^5 + 4x^4 + 10x^3 -1x^2 + 14x^1 + 10
+Sum: -2x^11 -6x^10 -4x^9 -20x^8 -17x^6 + 19x^5 + 2x^4 + 20x^3 + 1x^2 + 9x^1 + 21
+Subtraction: -18x^11 -18x^10 -4x^9 -2x^8 -4x^7 -9x^6 -7x^5 -6x^4 + 3x^2 -19x^1 + 1
+Product: -80x^22 -156x^21 -104x^20 -22x^19 + 6x^18 -64x^17 -21x^16 -164x^15 + 25x^14 -265x^13 -184x^12 -611x^11 -83x^10
+-315x^9 -60x^8 -120x^7 -45x^6 + 165x^5 + 112x^4 + 243x^3 -61x^2 + 104x^1 + 110
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: -38471
+Derivative: -110x^10 -120x^9 -36x^8 -88x^7 -14x^6 -78x^5 + 30x^4 -8x^3 + 30x^2 + 4x^1 -5
+Integral: -0.833333x^12 -1.09091x^11 -0.4x^10 -1.22222x^9 -0.25x^8 -1.85714x^7 + 1x^6 -0.4x^5 + 2.5x^4 + 0.666667x^3 -2.
+5x^2 + 11x^1
+Definite integration from x=0 to x=1: 6.61306
+Real roots of Polynomial 1: [-1.60672, -0.848002, 0.872559]
+
+
+
+Polynomial 1: 7
+Polynomial 2: 1
+Sum: 8
+Subtraction: 6
+Product: 7
+Degree of Polynomial: 0
+Evaluation of polynomial at x=2: 7
+Derivative:
+Integral: 7x^1
+Definite integration from x=0 to x=1: 7
+Real roots of Polynomial 1: []
+
+
+
+Polynomial 1: -10x^11 -14x^10 + 9x^9 -7x^8 + 7x^7 -9x^6 + 15x^5 -8x^4 -6x^3 -1x^1 -5
+Polynomial 2: 12x^11 + 10x^10 + 6x^9 -1x^8 -7x^7 -4x^6 + 2x^5 + 15x^4 -1x^3 -12x^2 -8x^1 + 10
+Sum: 2x^11 -4x^10 + 15x^9 -8x^8 -13x^6 + 17x^5 + 7x^4 -7x^3 -12x^2 -9x^1 + 5
+Subtraction: -22x^11 -24x^10 + 3x^9 -6x^8 + 14x^7 -5x^6 + 13x^5 -23x^4 -5x^3 + 12x^2 + 7x^1 -15
+Product: -120x^22 -268x^21 -92x^20 -68x^19 + 152x^18 + 49x^17 + 112x^16 -172x^15 -256x^14 + 167x^13 + 39x^12 -70x^11 -22
+2x^10 + 275x^9 -153x^8 -81x^7 -90x^6 + 261x^5 -106x^4 -43x^3 + 68x^2 + 30x^1 -50
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: -31383
+Derivative: -110x^10 -140x^9 + 81x^8 -56x^7 + 49x^6 -54x^5 + 75x^4 -32x^3 -18x^2 -1
+Integral: -0.833333x^12 -1.27273x^11 + 0.9x^10 -0.777778x^9 + 0.875x^8 -1.28571x^7 + 2.5x^6 -1.6x^5 -1.5x^4 -0.5x^2 -5x^
+1
+Definite integration from x=0 to x=1: -8.49455
+Real roots of Polynomial 1: [-2.13179]
+
+
+
+Polynomial 1: -4x^9 -8x^8 + 11x^7 -5x^6 + 3x^5 + 13x^4 + 8x^3 -5x^2 + 10x^1 -7
+Polynomial 2: 2x^9 + 9x^8 -4x^7 + 11x^6 -6x^5 + 2x^4 + 7x^3 -13x^2 + 10x^1 -2
+Sum: -2x^9 + 1x^8 + 7x^7 + 6x^6 -3x^5 + 15x^4 + 15x^3 -18x^2 + 20x^1 -9
+Subtraction: -6x^9 -17x^8 + 15x^7 -16x^6 + 9x^5 + 11x^4 + 1x^3 + 8x^2 -5
+Product: -8x^18 -52x^17 -34x^16 + 77x^15 -147x^14 + 234x^13 -44x^12 + 91x^11 + 199x^10 -138x^9 + 32x^8 + 164x^7 -220x^6
++ 47x^5 + 175x^4 -245x^3 + 201x^2 -90x^1 + 14
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: -2647
+Derivative: -36x^8 -64x^7 + 77x^6 -30x^5 + 15x^4 + 52x^3 + 24x^2 -10x^1 + 10
+Integral: -0.4x^10 -0.888889x^9 + 1.375x^8 -0.714286x^7 + 0.5x^6 + 2.6x^5 + 2x^4 -1.66667x^3 + 5x^2 -7x^1
+Definite integration from x=0 to x=1: 0.805159
+Real roots of Polynomial 1: [-3.03933, 0.568269, 1.3025]
+
+
+
+Polynomial 1: 2x^11 + 3x^10 + 13x^9 + 14x^8 + 14x^7 -4x^6 + 14x^5 -5x^4 + 8x^3 -13x^2 + 9x^1 -11
+Polynomial 2: 14x^11 + 4x^10 + 14x^9 -12x^7 -11x^6 + 1x^5 -6x^4 -11x^3 -1x^2 + 3
+Sum: 16x^11 + 7x^10 + 27x^9 + 14x^8 + 2x^7 -15x^6 + 15x^5 -11x^4 -3x^3 -14x^2 + 9x^1 -8
+Subtraction: -12x^11 -1x^10 -1x^9 + 14x^8 + 26x^7 + 7x^6 + 13x^5 + 1x^4 + 19x^3 -12x^2 + 9x^1 -14
+Product: 28x^22 + 50x^21 + 222x^20 + 290x^19 + 410x^18 + 138x^17 + 189x^16 -390x^15 -61x^14 -425x^13 -154x^12 -643x^11 -
+80x^10 -106x^9 -35x^8 + 55x^7 + 113x^6 + 112x^5 -35x^4 + 136x^3 -28x^2 + 27x^1 -33
+Degree of Polynomial: 11
+Evaluation of polynomial at x=2: 19331
+Derivative: 22x^10 + 30x^9 + 117x^8 + 112x^7 + 98x^6 -24x^5 + 70x^4 -20x^3 + 24x^2 -26x^1 + 9
+Integral: 0.166667x^12 + 0.272727x^11 + 1.3x^10 + 1.55556x^9 + 1.75x^8 -0.571429x^7 + 2.33333x^6 -1x^5 + 2x^4 -4.33333x^
+3 + 4.5x^2 -11x^1
+Definite integration from x=0 to x=1: -3.02648
+Real roots of Polynomial 1: [0.788368]
+
+
+
+Polynomial 1: -1x^9 + 12x^8 + 9x^7 + 15x^6 + 9x^5 + 5x^4 -8x^3 -11x^2 -2x^1
+Polynomial 2: -2x^9 + 10x^8 -6x^7 + 8x^6 -12x^5 + 10x^4 -1x^3 + 11x^2 + 10x^1 + 3
+Sum: -3x^9 + 22x^8 + 3x^7 + 23x^6 -3x^5 + 15x^4 -9x^3 + 8x^1 + 3
+Subtraction: 1x^9 + 2x^8 + 15x^7 + 7x^6 + 21x^5 -5x^4 -7x^3 -22x^2 -12x^1 -3
+Product: 2x^18 -34x^17 + 108x^16 -20x^15 + 186x^14 -92x^13 + 145x^12 -129x^11 + 137x^10 + 213x^9 + 352x^8 + 307x^7 + 112
+x^6 -20x^5 -184x^4 -156x^3 -53x^2 -6x^1
+Degree of Polynomial: 9
+Evaluation of polynomial at x=2: 4928
+Derivative: -9x^8 + 96x^7 + 63x^6 + 90x^5 + 45x^4 + 20x^3 -24x^2 -22x^1 -2
+Integral: -0.1x^10 + 1.33333x^9 + 1.125x^8 + 2.14286x^7 + 1.5x^6 + 1x^5 -2x^4 -3.66667x^3 -1x^2
+Definite integration from x=0 to x=1: 0.334524
+Real roots of Polynomial 1: [-0.67915, -0.220914, 6.06332e-12, 0.800687]
+
+
+
+Polynomial 1: 11x^2 + 8x^1 -4
+Polynomial 2: 15x^2 + 4x^1 -4
+Sum: 26x^2 + 12x^1 -8
+Subtraction: -4x^2 + 4x^1
+Product: 165x^4 + 164x^3 -72x^2 -48x^1 + 16
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 56
+Derivative: 22x^1 + 8
+Integral: 3.66667x^3 + 4x^2 -4x^1
+Definite integration from x=0 to x=1: 3.66667
+Real roots of Polynomial 1: [-1.06782, 0.340542]
+
+
+
+Polynomial 1: 3x^2 + 13x^1 + 12
+Polynomial 2: 4x^2 + 10x^1
+Sum: 7x^2 + 23x^1 + 12
+Subtraction: -1x^2 + 3x^1 + 12
+Product: 12x^4 + 82x^3 + 178x^2 + 120x^1
+Degree of Polynomial: 2
+Evaluation of polynomial at x=2: 50
+Derivative: 6x^1 + 13
+Integral: 1x^3 + 6.5x^2 + 12x^1
+Definite integration from x=0 to x=1: 19.5
+Real roots of Polynomial 1: [-3, -1.33333]
+
+
+
+Polynomial 1: -3x^8 + 10x^7 + 1x^6 + 10x^5 -12x^4 + 14x^3 + 15x^2 -2x^1 -13
+Polynomial 2: 1x^8 -12x^7 -7x^6 -7x^5 + 10x^4 + 12x^3 -10x^2 -1x^1 + 9
+Sum: -2x^8 -2x^7 -6x^6 + 3x^5 -2x^4 + 26x^3 + 5x^2 -3x^1 -4
+Subtraction: -4x^8 + 22x^7 + 8x^6 + 17x^5 -22x^4 + 2x^3 + 25x^2 -1x^1 -22
+Product: -3x^16 + 46x^15 -98x^14 -51x^13 -239x^12 + 145x^11 + 21x^10 -181x^9 -239x^8 + 50x^7 + 542x^6 + 213x^5 -426x^4 -
+25x^3 + 267x^2 -5x^1 -117
+Degree of Polynomial: 8
+Evaluation of polynomial at x=2: 859
+Derivative: -24x^7 + 70x^6 + 6x^5 + 50x^4 -48x^3 + 42x^2 + 30x^1 -2
+Integral: -0.333333x^9 + 1.25x^8 + 0.142857x^7 + 1.66667x^6 -2.4x^5 + 3.5x^4 + 5x^3 -1x^2 -13x^1
+Definite integration from x=0 to x=1: -5.17381
+Real roots of Polynomial 1: [0.757206, 3.62868]
+
+
+
+Polynomial 1: -14x^10 + 15x^9 + 13x^8 + 10x^7 + 15x^6 + 14x^5 + 12x^4 -4x^3 + 1x^2 + 7x^1 + 11
+Polynomial 2: 3x^10 -9x^9 -8x^8 + 11x^7 -6x^6 -3x^5 + 14x^4 -10x^3 + 15x^2 + 2x^1 + 14
+Sum: -11x^10 + 6x^9 + 5x^8 + 21x^7 + 9x^6 + 11x^5 + 26x^4 -14x^3 + 16x^2 + 9x^1 + 25
+Subtraction: -17x^10 + 24x^9 + 21x^8 -1x^7 + 21x^6 + 17x^5 -2x^4 + 6x^3 -14x^2 + 5x^1 -3
+Product: -42x^20 + 171x^19 + 16x^18 -361x^17 + 100x^16 -78x^15 -419x^14 + 184x^13 -201x^12 + 254x^11 -57x^10 + 276x^9 +
+450x^8 + 280x^7 + 385x^6 + 215x^5 + 259x^4 -59x^3 + 193x^2 + 120x^1 + 154
+Degree of Polynomial: 10
+Evaluation of polynomial at x=2: -451
+Derivative: -140x^9 + 135x^8 + 104x^7 + 70x^6 + 90x^5 + 70x^4 + 48x^3 -12x^2 + 2x^1 + 7
+Integral: -1.27273x^11 + 1.5x^10 + 1.44444x^9 + 1.25x^8 + 2.14286x^7 + 2.33333x^6 + 2.4x^5 -1x^4 + 0.333333x^3 + 3.5x^2
++ 11x^1
+Definite integration from x=0 to x=1: 23.6312
+Real roots of Polynomial 1: [-0.972273, 1.96566]
