@@ -6,7 +6,7 @@
 - Chat GPT
 - Copilot
 
-### The aim is to generate a program applies operations on polynomials and check the two models in:
+### The aim is to generate a program applies operations on polynomials and compare between the two models in:
 - Correctness 
 - Accuracy
 - Quality
