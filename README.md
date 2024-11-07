@@ -1,4 +1,4 @@
-# Prompt-AI
+# Prompt AI
 
 
 ## Description:
